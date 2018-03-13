@@ -13,7 +13,8 @@ by typing `git merge master`. Resolve any merge conflicts, then push
 and submit a pull request. I will review your changes to make sure everything
 looks fine and then merge stuff into master.
 
-### Installation
+### Installation of Django
+This is for the future, we don't need Django yet.
 #### Requirements
 - Python 3
 - Virtualenv
