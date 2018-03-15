@@ -25,3 +25,12 @@ lang: en-US
 # Build settings
 markdown: kramdown
 
+# Navigation entries
+navigation:
+  - title: About
+    permalink: /about/
+  - title: Tournament
+    permalink: /tournament/
+  - title: Registration
+    permalink: /registration/
+
