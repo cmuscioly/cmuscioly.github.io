@@ -27,6 +27,8 @@ markdown: kramdown
 
 # Navigation entries
 navigation:
+  - title: Home
+    permalink: /
   - title: About
     permalink: /about/
   - title: Tournament
