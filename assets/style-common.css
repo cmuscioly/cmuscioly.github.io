@@ -1,0 +1,37 @@
+.bg {
+  background-image: url("./back2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#cmu-scioly-header {
+  font-size: 100px;
+  font-family: 'Agency FB', arial;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: Montserrat;
+}
+
+
+/* Navigation bar */
+
+.main-navbar {
+  background-color: rgba(248, 249, 250, 0.85) !important;
+}
+
+.main-navbar .nav-item {
+  text-align: center;
+}
+
+.main-navbar .navbar-nav .nav-link {
+  font-family: Montserrat;
+  font-weight: bold;
+}

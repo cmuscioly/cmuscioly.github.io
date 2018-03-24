@@ -1,3 +1,11 @@
+# Jekyll things
+/_site
+/.jekyll-metadata
+
+# Bundle environment
+/.bundle
+/vendor/bundle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

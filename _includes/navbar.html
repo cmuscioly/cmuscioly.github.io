@@ -1,0 +1,23 @@
+<nav class="main-navbar navbar navbar-expand-lg navbar-light bg-light">
+  <!--
+  {% if page.permalink == '/' %}{% assign active = true %}{% endif %}
+  <a class="navbar-brand" href="{{ '/' | relative_url }}">CMU Scioly {% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
+  {% assign active = nil %}
+  -->
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mx-auto">
+      {% for item in site.navigation %}
+      {% if page.permalink == item.permalink %}{% assign active = true %}{% endif %}
+      <li class="nav-item mx-2 {% if active %}active{% endif %}">
+        <a class="nav-link" href="{{ item.permalink | relative_url }}">{{ item.title }}{% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
+      </li>
+      {% assign active = nil %}
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
