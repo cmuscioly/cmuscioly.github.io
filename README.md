@@ -36,6 +36,17 @@ request from your branch to `master`. I will review your changes to make
 sure that nothing breaks; then I will merge your changes into `master`. Soon
 after, you'll be able to view the website at https://c-er.github.io/cmuscioly-web-platform.
 
+### Installation of Jekyll
+Jekyll is a framework that allows us to separate templates (how the website looks)
+from the content. This makes it easier to add content, reduces code duplication,
+and generally makes everything more elegant.
+1. Install [ruby](https://www.ruby-lang.org/en/documentation/installation/)
+and the [rubygems package manager](https://rubygems.org/pages/download).
+2. Install bundler by running `gem install bundler`.
+3. While in the directory where this repository is cloned, run `bundle install`.
+4. Whenever you want to view the website, run `bundle exec jekyll serve`. You
+will be able to view the website (by default) at `localhost:4000`.
+
 ### Installation of Django
 This is for the future, we don't need Django yet.
 #### Requirements
