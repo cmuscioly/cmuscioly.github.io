@@ -14,11 +14,14 @@ can verify this by typing `git branch` and ensuring that the starred branch
 is called `master`.
 3. Make a new branch for development by typing `git checkout -b <branch-name>`.
 This is so that you can develop your features locally at the same time as
-other people without producing conflicting stuff.
+other people without producing conflicting stuff. Whenever you make a new
+branch to start developing a feature, make sure that `master` is up to date.
+Do this by running `git pull origin master` while on the `master` branch.
 4. Develop normally using `git`. Specifically, whenever you come to a saving
 point that you might want to return to later, use `git add` to choose the files
 you want to save, and use `git commit` to save them. This part is pretty
-simple; you can look up commands if you need more details.
+simple; you can look up commands if you need more details. [Here](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is
+a decent resource.
 5. When you are done with you're feature and ready to publish it, you first
 have to make sure that you have the updates that other people have made to
 `master`. To do this, while you are on the branch you created, type
