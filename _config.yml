@@ -18,8 +18,8 @@ email: cmuscioly@gmail.com
 description: >-
   A Science Olympiad invitational tournament aimed at high schoolers, and
   run by students from Carnegie Mellon University.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cmuscioly-web-platform" # the subpath of your site, e.g. /blog
+url: "https://c-er.github.io/cmuscioly-web-platform" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en-US
 
 # Build settings
