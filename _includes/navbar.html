@@ -1,4 +1,4 @@
-<nav class="main-navbar navbar navbar-expand-lg navbar-light bg-light">
+<nav class="main-navbar navbar navbar-expand-lg navbar-dark bg-light">
   <!--
   {% if page.permalink == '/' %}{% assign active = true %}{% endif %}
   <a class="navbar-brand" href="{{ '/' | relative_url }}">CMU Scioly {% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
@@ -14,7 +14,7 @@
       {% for item in site.navigation %}
       {% if page.permalink == item.permalink %}{% assign active = true %}{% endif %}
       <li class="nav-item mx-2 {% if active %}active{% endif %}">
-        <a class="nav-link" href="{{ item.permalink | relative_url }}">{{ item.title }}{% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
+        <a class="nav-link" href="{{ item.permalink | relative_url }}" style="text-transform: uppercase;">{{ item.title }}{% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
       </li>
       {% assign active = nil %}
       {% endfor %}
