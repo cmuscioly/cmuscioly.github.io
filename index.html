@@ -2,34 +2,42 @@
 layout: page
 permalink: /
 ---
+<style>
+  #cmu-scioly-header {
+    font-size: 100px;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 0 rgba(196, 4, 5, 0.3);
+    margin-top: 6%;
+    color: #C40405;
+  }
+  #event-date {
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 30pt;
+    color: #C40405;
+  }
+  #register-button {
+    text-transform: uppercase;
+    margin-top: 1em;
+    background-color: #C40405;
+  }
+  #register-button:hover {
+    background-color: #960303;
+  }
+  #everything {
+    text-align: center;
+  }
+</style>
+
+<div id="everything">
 
 <div id="cmu-scioly-header"> CMU Science Olympiad </div>
 
-<!--
-<div class="jumbotron">
-  <div class="col-sm-8">
-    <h1>Hello, world!</h1>
-  </div>
-</div>
--->
+<h2 id="event-date"> Saturday, January 12<sup>th</sup>, 2019 </h2>
 
-<div class="card p-4">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat in justo a vehicula. Donec nec imperdiet turpis. Aliquam erat volutpat. Donec sit amet nulla vel metus euismod aliquet vitae et ipsum. Cras vel pulvinar mauris. Sed non neque ipsum. Duis sed tortor vel sapien pulvinar blandit. Quisque congue ante quis lacus dapibus ullamcorper vel sed sapien. Donec varius metus quis sem varius, ac ornare arcu consectetur. Nulla gravida finibus nunc sed fermentum. Phasellus nisl nisl, interdum at sapien vel, auctor elementum erat. In eu augue at magna gravida tempor ut quis massa. Nullam ultricies rutrum turpis at ultrices.</p>
+<a href="{{'/registration/' | relative_url}}" class="btn btn-danger mx-auto" id="register-button">Register</a>
 
-  <p>Vestibulum in sem eu quam rutrum tincidunt. Etiam sit amet ex vitae ex aliquet consectetur consectetur vitae elit. Ut congue a diam fringilla dapibus. Sed faucibus interdum tellus eget sollicitudin. Duis dictum et enim sed faucibus. Phasellus placerat, nulla eu finibus dapibus, nisi nisi vestibulum ipsum, at blandit nisl arcu et risus. Donec feugiat dolor at orci ultrices, sed dignissim ex placerat. Maecenas quis malesuada neque. In sit amet augue convallis ex gravida vulputate at ac tortor. Aliquam erat volutpat. Suspendisse imperdiet ac urna ac convallis. Nullam magna quam, consequat in nisi luctus, iaculis commodo nisl. Nullam accumsan, nibh pulvinar ornare ultricies, leo arcu ultricies purus, et facilisis odio risus aliquam mi. Nulla facilisi. Vivamus efficitur vitae diam at venenatis.</p>
-
-Nam lobortis arcu felis, sed mollis turpis molestie ut. Nam eu lacinia est. Suspendisse elit lorem, sodales sed pharetra sed, consectetur eu tortor. Vestibulum aliquet aliquam est sed sodales. Quisque sit amet elit gravida, vehicula ex eget, sodales mauris. Vivamus leo mauris, laoreet vitae efficitur quis, ultrices eleifend arcu. Sed nec metus scelerisque libero feugiat vestibulum non at nulla. Sed fringilla ligula est, vel varius libero consequat vitae. Quisque mattis dictum ipsum ut lobortis. Nullam eget lectus felis. Aliquam imperdiet augue nec lorem malesuada, et porta lectus facilisis. Proin sed enim fringilla, laoreet ipsum id, auctor libero. Aenean venenatis nunc at elit sodales, at ultrices lectus blandit. Pellentesque eget sem non sem cursus rutrum. Nam posuere nibh dui, sit amet molestie lectus maximus et.
-
-<p>Vestibulum at diam leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam quis blandit enim. Etiam aliquam, tortor vitae venenatis gravida, sem risus luctus elit, vel viverra purus felis sed justo. Etiam convallis a leo nec fringilla. Sed vehicula non nulla ac fringilla. Maecenas molestie bibendum libero, at tincidunt nunc imperdiet in. Praesent faucibus nibh vulputate ornare aliquet. Quisque condimentum nisl a mauris maximus, a malesuada dui euismod. In dapibus, tortor eget mollis cursus, dui ex blandit erat, ut viverra eros nisl ac justo. Nunc sagittis enim risus, at finibus arcu blandit ac. Nam fermentum sapien risus, at porttitor diam laoreet eget. Suspendisse rhoncus neque ut pharetra molestie.</p>
-
-  <p>Nunc placerat fermentum pulvinar. Donec at commodo risus. Duis tincidunt leo sed risus sollicitudin viverra. Donec eget auctor est, quis porttitor neque. Praesent vel nibh ligula. Donec vitae urna a nibh convallis tincidunt in eget mi. Donec blandit nulla sed volutpat elementum. Duis eget mattis sem, in mattis erat. Nam metus nulla, tincidunt eu tincidunt ac, fringilla a neque. Aliquam tempor felis eu ex malesuada, quis imperdiet nibh scelerisque.</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat in justo a vehicula. Donec nec imperdiet turpis. Aliquam erat volutpat. Donec sit amet nulla vel metus euismod aliquet vitae et ipsum. Cras vel pulvinar mauris. Sed non neque ipsum. Duis sed tortor vel sapien pulvinar blandit. Quisque congue ante quis lacus dapibus ullamcorper vel sed sapien. Donec varius metus quis sem varius, ac ornare arcu consectetur. Nulla gravida finibus nunc sed fermentum. Phasellus nisl nisl, interdum at sapien vel, auctor elementum erat. In eu augue at magna gravida tempor ut quis massa. Nullam ultricies rutrum turpis at ultrices.</p>
-
-  <p>Vestibulum in sem eu quam rutrum tincidunt. Etiam sit amet ex vitae ex aliquet consectetur consectetur vitae elit. Ut congue a diam fringilla dapibus. Sed faucibus interdum tellus eget sollicitudin. Duis dictum et enim sed faucibus. Phasellus placerat, nulla eu finibus dapibus, nisi nisi vestibulum ipsum, at blandit nisl arcu et risus. Donec feugiat dolor at orci ultrices, sed dignissim ex placerat. Maecenas quis malesuada neque. In sit amet augue convallis ex gravida vulputate at ac tortor. Aliquam erat volutpat. Suspendisse imperdiet ac urna ac convallis. Nullam magna quam, consequat in nisi luctus, iaculis commodo nisl. Nullam accumsan, nibh pulvinar ornare ultricies, leo arcu ultricies purus, et facilisis odio risus aliquam mi. Nulla facilisi. Vivamus efficitur vitae diam at venenatis.</p>
-
-Nam lobortis arcu felis, sed mollis turpis molestie ut. Nam eu lacinia est. Suspendisse elit lorem, sodales sed pharetra sed, consectetur eu tortor. Vestibulum aliquet aliquam est sed sodales. Quisque sit amet elit gravida, vehicula ex eget, sodales mauris. Vivamus leo mauris, laoreet vitae efficitur quis, ultrices eleifend arcu. Sed nec metus scelerisque libero feugiat vestibulum non at nulla. Sed fringilla ligula est, vel varius libero consequat vitae. Quisque mattis dictum ipsum ut lobortis. Nullam eget lectus felis. Aliquam imperdiet augue nec lorem malesuada, et porta lectus facilisis. Proin sed enim fringilla, laoreet ipsum id, auctor libero. Aenean venenatis nunc at elit sodales, at ultrices lectus blandit. Pellentesque eget sem non sem cursus rutrum. Nam posuere nibh dui, sit amet molestie lectus maximus et.
-
-<p>Vestibulum at diam leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam quis blandit enim. Etiam aliquam, tortor vitae venenatis gravida, sem risus luctus elit, vel viverra purus felis sed justo. Etiam convallis a leo nec fringilla. Sed vehicula non nulla ac fringilla. Maecenas molestie bibendum libero, at tincidunt nunc imperdiet in. Praesent faucibus nibh vulputate ornare aliquet. Quisque condimentum nisl a mauris maximus, a malesuada dui euismod. In dapibus, tortor eget mollis cursus, dui ex blandit erat, ut viverra eros nisl ac justo. Nunc sagittis enim risus, at finibus arcu blandit ac. Nam fermentum sapien risus, at porttitor diam laoreet eget. Suspendisse rhoncus neque ut pharetra molestie.</p>
-
-  <p>Nunc placerat fermentum pulvinar. Donec at commodo risus. Duis tincidunt leo sed risus sollicitudin viverra. Donec eget auctor est, quis porttitor neque. Praesent vel nibh ligula. Donec vitae urna a nibh convallis tincidunt in eget mi. Donec blandit nulla sed volutpat elementum. Duis eget mattis sem, in mattis erat. Nam metus nulla, tincidunt eu tincidunt ac, fringilla a neque. Aliquam tempor felis eu ex malesuada, quis imperdiet nibh scelerisque.</p>
 </div>
