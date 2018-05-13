@@ -36,3 +36,5 @@ navigation:
   - title: Registration
     permalink: /registration/
 
+# for testing so that you can serve from your laptop and view on your phone
+host: 0.0.0.0

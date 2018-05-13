@@ -1,19 +1,41 @@
 <!DOCTYPE html>
+<style>
+* { margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+}
+#holder {
+  min-height: 100%;
+  position: relative;
+}
+#content {
+  padding-bottom: 40px; /* the height of the footer */
+}
+</style>
 <html lang="{{ page.lang | default: site.lang }}">
 
 {% include head.html %}
 
-<body class="bg">
+<body>
+
+<div id="holder"> <!-- holds everything -->
 
 {% include navbar.html %}
+<div class="container" id="content">
 
-<div class="container">
 <main role="main">
 
 {{ content }}
 
 </main>
+
 </div>
+
+{% include contact.html %}
+
+</div>
+
 
 <!-- JS for Bootstrap -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

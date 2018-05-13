@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<style>
+  body {
+    background-image: url("{{ '/assets/back.jpg' | relative_url }}");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  h1#cmu-scioly-header {
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 0 rgba(196, 4, 5, 0.3);
+    margin-top: 4%;
+    color: #C40405;
+  }
+  #event-date {
+    text-align: center;
+    font-variant: small-caps;
+    color: #C40405;
+  }
+  #register-button {
+    text-transform: uppercase;
+    margin-top: 1em;
+    background-color: #C40405;
+    margin-bottom: 50px;
+  }
+  #register-button:hover {
+    background-color: #960303;
+  }
+  #everything {
+    text-align: center;
+  }
+</style>
+
+{{ content }}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mdpage
 title: Tournament Information
 permalink: /tournament/
 ---

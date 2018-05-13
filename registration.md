@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mdpage
 title: Registration
 permalink: /registration/
 ---
