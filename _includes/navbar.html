@@ -1,23 +1,33 @@
-<nav class="main-navbar navbar navbar-expand-lg navbar-dark bg-light">
-  <!--
-  {% if page.permalink == '/' %}{% assign active = true %}{% endif %}
-  <a class="navbar-brand" href="{{ '/' | relative_url }}">CMU Scioly {% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
-  {% assign active = nil %}
-  -->
+<style>
+  .navbar {
+    background-color: rgba(248, 249, 250, 0) !important;
+    font-family: Montserrat;
+    font-weight: bold;
+  }
+  .navbar-left > img {
+    max-height: 50px;
+  }
+</style>
 
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+
+  <a class="navbar-left" href="{{'/' | relative_url}}"><img src="{{ '/assets/logo-edit.png' | relative_url }}"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mx-auto">
+    <ul class="navbar-nav ml-auto">
       {% for item in site.navigation %}
       {% if page.permalink == item.permalink %}{% assign active = true %}{% endif %}
-      <li class="nav-item mx-2 {% if active %}active{% endif %}">
+      <li class="mx-2 {% if active %}active{% endif %}">
         <a class="nav-link" href="{{ item.permalink | relative_url }}" style="text-transform: uppercase;">{{ item.title }}{% if active %} <span class="sr-only">(current)</span>{% endif %}</a>
       </li>
       {% assign active = nil %}
       {% endfor %}
     </ul>
   </div>
+
+</div>
 </nav>

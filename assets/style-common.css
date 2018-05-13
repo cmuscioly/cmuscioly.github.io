@@ -1,6 +1,12 @@
 * { margin: 0; padding: 0; }
 
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
 body {
+  position: relative;
   background: url(back.jpg) no-repeat fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
