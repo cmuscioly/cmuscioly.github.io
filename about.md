@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-Paragraph of text and stuff. Here's some more.
+# Our Mission
+<hr>
 
-Paragraph of text
+CMU Science Olympiad is a student organization that seeks to inspire interest in the study of science, technology, engineering, and mathematics (STEM) among youth by organizing and directing Science Olympiad tournaments on campus. 
 
 # Another Big Header
 <hr>

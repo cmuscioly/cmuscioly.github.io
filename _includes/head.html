@@ -1,4 +1,5 @@
 <head>
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,8 +14,18 @@
   <!-- <link rel="stylesheet" href="{{ '/assets/style-common.css' | relative_url }}"> -->
 
   <!-- Agency font. Deprecated, probably -->
-  <link rel="stylesheet" href="{{ '/assets/agency-font.css' | relative_url }}">
+  <!--<link rel="stylesheet" href="{{ '/assets/agency-font.css' | relative_url }}">-->
 
+  <!-- Pace.JS - loading page lmao - load early as possible -->
+  <script> paceOptions = {'startOnPageLoad' : false, 'ajax' : false, 'lagThreshold' : 3, 'ghostTime': 0, 'catchupTime': 50, 'minTime': 20, 'maxProgressPerFrame': 50} </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+  <link rel="stylesheet" href="{{ '/assets/pace-theme.css' | relative_url }}">
+
+  <!-- Jquery -->
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
   <!-- Google fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat|Lato|Exo+2:600,700|Inconsolata">
 

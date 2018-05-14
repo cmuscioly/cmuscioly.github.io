@@ -2,12 +2,26 @@
 layout: default
 ---
 <style>
-  body {
-    background-image: url("{{ '/assets/back.jpg' | relative_url }}");
+
+  body.pace-running::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1500;
+    background-color: rgba(255, 255, 255, 1);
+  }
+
+  #holder {
+    background-image: url("{{ '/assets/back-strip.jpg' | relative_url }}");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+    opacity: 0;
+    transition: opacity 0.3s;
   }
 
   h1#cmu-scioly-header {
@@ -36,5 +50,11 @@ layout: default
     text-align: center;
   }
 </style>
+
+<script> Pace.start() ;
+Pace.on("done", function() {
+  $("#holder").css("opacity", "1");
+});
+</script>
 
 {{ content }}
