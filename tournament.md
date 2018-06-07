@@ -6,19 +6,17 @@ permalink: /tournament/
 
 # Tournament Information
 <hr>
-
-Carnegie Mellon University will be hosting its first Science Olympiad Invitational Tournament on **Saturday, January 12th, 2019** on its campus in Pittsburgh, Pennsylvania.
-
-We will be running all 23 Division C national events, including PA trial events. All exams are written at a regionals level and proofread by former Science Olympians who have competed at all levels of competition. We will be asking coaches to help run events.
-
-Each school will be assigned to its own homeroom for the day. The tournament will run all day and end with an awards ceremony recognizing top teams and individuals.
-
-As a mecca of STEM innovation, CMU is the perfect location to host a Science Olympiad tournament.
+Carnegie Mellon University will be hosting its first Science Olympiad Division C Invitational Tournament on **Saturday, January 12th, 2019** on its campus in Pittsburgh, Pennsylvania. As a mecca of STEM innovation, CMU is the perfect location to host a Science Olympiad tournament.
 We’re excited to share the Carnegie Mellon experience with you!
 
-# Schedule of Events
+# Schedule
 <hr>
 TBA
+
+# Events
+<hr>
+We plan to run all 23 of the official 2019 Division C events as well as all Pennsylvania state trial events. Exams will be written and proofread by the members of the CMU Science Olympiad
+student organization, most of whom are former Science Olympians. Wherever it makes a difference, we will be following regionals rules.
 
 # Accommodations
 <hr>
@@ -29,15 +27,17 @@ CMU campus is located at 5000 Forbes Avenue, Pittsburgh, PA 15213. Click [here](
 
 ## Parking
 
-oh shit what is we doing
+Carnegie Mellon’s campus has specific spots for visitor parking. There are 4 garages; if those are full, there is metered street parking on some streets around campus. Visit [this link](https://www.cmu.edu/visit/maps-parking-transportation.html)
+for more information.
+
 
 ## Hotels
 
-also unknown
+Carnegie Mellon is located in the middle of a few different neighborhoods with hotels that are a convenient distance from the university. Visit [this link](https://admission.enrollment.cmu.edu/pages/accommodations) for comprehensive information on many options for your stay, including which hotels may have special group rates and shuttle service to campus!
 
 ## Food
 
-Carnegie Mellon hosts a wide variety of food vendors located throughout campus. For a comprehensive list of which eateries are open at any given time and their locations, please check <cmueats.com>. Please be aware that since the invitational is taking place during the Carnegie Mellon winter break and on a weekend, on-campus options may be limited.
+Carnegie Mellon hosts a wide variety of food vendors located throughout campus. For information which eateries are open at any given time and their locations, please check [cmueats.com](cmueats.com). Please be aware that since the invitational is taking place during the Carnegie Mellon winter break and on a weekend, on-campus options may be limited.
 
 Some great off campus food options include:
 
