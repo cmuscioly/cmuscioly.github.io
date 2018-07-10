@@ -122,6 +122,11 @@ Riya loves being part of Science Olympiad because it challenges her to think abo
   </li>
 </ul>
 
+## Website
+This website was designed by Uday Shankar, Kevin Geng, and Maryia Oreshko.
+
+Special thanks to Katherine Zhang for designing our [logo]("{{ '/assets/logo-transparent.png' | relative_url }}").
+
 # Contact Us
 <hr>
 Have any questions or concerns about our invitational tournament or the student organization? Reach out to us

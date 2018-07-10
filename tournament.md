@@ -25,6 +25,11 @@ of the exams (which can be used for additional practice) and answer keys will al
 past at an invitational tournament. This won't happen at Carnegie Mellon, where we have among our staff national building medalists who truly know the rules inside and out.
 Some of our staff are also active Pennsylvania state event supervisors, and our building chair has participated in the writing of the national Scrambler rules. With
 all this experience, we can ensure that despite following regional rules, we will be judging your builds with national-level rigor.
+- **Dedicated Volunteers:** A college campus that you aren't used to can be confusing to navigate. You can count on our helpful volunteer staff to get you to your events and provide
+you assistance in any other form.
+- **Streamlined Registration process:** We want to make the process of registering and attending our invitational as easy as possible for you. As such, we plan to implement a registration
+process that will keep the amount of required paperwork to a minimum. We will also distribute as much information as possible online before the tournament, so that all operations on the big
+day will be as streamlined as possible.
 
 # Schedule
 <hr>
