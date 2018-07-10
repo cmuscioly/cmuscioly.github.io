@@ -17,7 +17,7 @@ We are former Science Olympians, and many of us have been to various invitationa
 - **High Quality Exams:** Exams are the core of any Science Olympiad tournament. Good exams provide the basis for a good tournament, and conversely, a tournament
 with poor quality exams will never be a good experience. As a result, our team focuses heavily on writing high quality exams. We strive to stay consistent
 with the official rules while making our exams reasonably difficult. We believe that this approach will create a maximally enjoyable experience for our competitors while
-also preparing them as well as possible for future Science Olympiad tournaments.
+also preparing them for future Science Olympiad tournaments.
 - **Exams and Answer Keys returned post-tournament:** Taking exams in a tournament setting is an important learning experience, but you can only really learn from your mistakes
 if you are given the chance to go back and see what you did wrong. To allow for this complete learning experience, we grade and return all exams to the teams. Blank copies
 of the exams (which can be used for additional practice) and answer keys will also be provided to all attending teams in electronic format.
@@ -59,10 +59,10 @@ Carnegie Mellon is located in the middle of a few different neighborhoods with h
 
 ## Food
 
-Carnegie Mellon hosts a wide variety of food vendors located throughout campus. For information which eateries are open at any given time and their locations, please check [cmueats.com](cmueats.com). Please be aware that since the invitational is taking place during the Carnegie Mellon winter break and on a weekend, on-campus options may be limited.
+Carnegie Mellon hosts a wide variety of food vendors located throughout campus. For information about which eateries are open at any given time and their locations, please check [cmueats.com](cmueats.com). Please be aware that since the invitational is taking place during the Carnegie Mellon winter break and on a weekend, on-campus options may be limited.
 
 Some great off campus food options include:
 
-- Craig Street is a 5 minute walk from campus and offers a number of restaurants, including Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crepes Parisienne, Ali Baba Restaurant, and Yuva Indian Kitchen.
-- Walking 10 to 15 minutes down Forbes Avenue will bring you to the Oakland area, which offers Noodles and Company, Panera Bread, Fuku Tea, McDonalds, Starbucks, Dunkin Donuts, and Primanti Brothers.
-- A 10 minute inward-bound bus ride from the Carnegie Mellon Forbes Avenue bus stop (61A, 61B, 61C, 61D) will bring you to Squirrel Hill, which offers plenty of great, affordable restaurants. Bangkok Balcony, Murray Avenue Grill, and Everyday Noodles are just some of the places that offer delicious meals!
+- **Craig Street** (5 minute walk along Forbes): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crepes Parisienne, Ali Baba Restaurant, and Yuva Indian Kitchen.
+- **Oakland** (10-15 minute walk along Forbes): Noodles and Company, Panera Bread, Fuku Tea, McDonalds, Starbucks, Dunkin Donuts, and Primanti Brothers.
+- **Squirrel Hill** (10 minute inward-bound bus ride on 61A, B, C, or D):  Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, and more.

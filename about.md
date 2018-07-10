@@ -122,8 +122,10 @@ Riya loves being part of Science Olympiad because it challenges her to think abo
   </li>
 </ul>
 
-## Website
-This website was designed by Uday Shankar, Kevin Geng, and Maryia Oreshko.
+# Our Supporters
+<hr>
+We'd like to thank our sponsors, the Carnegie Mellon Senate and the Carnegie Mellon Student Government, for their generosity. This tournament
+would not be possible without their support.
 
 Special thanks to Katherine Zhang for designing our logo.
 
