@@ -7,13 +7,13 @@ permalink: /about/
 # Our Mission
 <hr>
 
-CMU Science Olympiad is a student organization that seeks to inspire interest in the study of science, technology, engineering, and mathematics (STEM) among youth by hosting one annual Science Olympiad invitational tournament. Our tournament features challenging exams and rigorous competition, and teams will find it to provide invaluable preparation for Science Olympiad competitions at the regional, state, and national levels.
+CMU Science Olympiad is a student-run organization that seeks to inspire interest in the study of science, technology, engineering, and mathematics (STEM) among youth by hosting annual Science Olympiad intvitational tournaments. Our tournament features challenging exams and rigorous competition, and teams will find it to provide invaluable preparation for Science Olympiad competitions at the regional, state, and national levels.
 
 # History
 <hr>
 
 The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated
-members who have worked together to prepare for next year's tournament by drafting exams, securing financial support, and creating this website. The organization plans to host its first invitational tournament in early 2019.
+members who have worked together to prepare for next year's tournament. The organization plans to host its first invitational tournament in early 2019.
 
 # The Team
 <hr>
@@ -26,7 +26,7 @@ members who have worked together to prepare for next year's tournament by drafti
       <small>Co-President</small>
     </div>
     <small class="text-muted"> Biological Sciences 2021 </small>
-    <p class="mb-1">Loves Shake Shack more than life. Avid Game of Thrones fan. Sarah credits Science Olympiad for fostering her love for the sciences.</p>
+    <p class="mb-1">Sarah loves Shake Shack more than life, and is an avid Game of Thrones fan. She credits Science Olympiad for fostering her love for the sciences.</p>
 
     <p style="margin-bottom: 0;">Favorite Events: Experimental Design, Hydrogeology</p>
   </div>
@@ -48,7 +48,7 @@ members who have worked together to prepare for next year's tournament by drafti
       <small>Secretary</small>
     </div>
     <small class="text-muted"> Computer Science 2021 </small>
-    <p class="mb-1">Uday did Science Olympiad for 5 years in middle and high school. Being a long-time programmer, he naturally got forced onto Game On in his sophomore, junior, and senior years and eventually grew to love the event. He now spends the majority of his free time insisting that Game On is not a meme and defending the event from the mockery of unenlightened souls.</p>
+    <p class="mb-1">Uday competed in Science Olympiad for 5 years in middle and high school. Being a long-time programmer, he naturally got forced onto Game On in his sophomore, junior, and senior years and eventually grew to love the event. He now spends the majority of his free time insisting that Game On is not a meme and defending the event from the mockery of unenlightened souls.</p>
 
     <p style="margin-bottom: 0;">Favorite Events: Chemistry Lab, Game On</p>
   </div>
@@ -59,11 +59,11 @@ members who have worked together to prepare for next year's tournament by drafti
       <small>Finance Chair</small>
     </div>
     <small class="text-muted"> Chemistry 2021 </small>
-    <p class="mb-1">Ultimate goal of one day owning a Corgi. Loves anything with melty cheese.
-Riya loves being part of Science Olympiad because it challenges her to think about STEM from a different perspective. Since she never had the opportunity to do Science Olympiad in high school, she’s happy she gets the chance be a part of it at CMU, and she’s invested in making this tournament the best it can possibly be!
-</p>
+    <p class="mb-1">Riya's ultimate goal is to own a corgi someday. She loves anything with melty cheese.
+    Riya loves being part of Science Olympiad because it challenges her to think about STEM from a different perspective. Since she never had the opportunity to do Science Olympiad in high school, she’s happy she gets the chance be a part of it at CMU, and she’s invested in making this tournament the best it can possibly be!
+    </p>
 
-<p style="margin-bottom: 0;">Favorite Events: Anatomy and Physiology, Experimental Design</p>
+    <p style="margin-bottom: 0;">Favorite Events: Anatomy and Physiology, Experimental Design</p>
   </div>
 
   <div class="list-group-item flex-column align-items-start">
@@ -72,8 +72,8 @@ Riya loves being part of Science Olympiad because it challenges her to think abo
       <small>Membership Chair</small>
     </div>
     <small class="text-muted"> Computer Science 2021 </small>
-    <p class="mb-1">Revanth did Science Olympiad for 5 years in middle and high school. He has a knack for memorizing vast quantities of information, which makes events like Rocks and Minerals
-    easy. He also loves building and physics, and he considers the 48 hours before a tournament (in which he does not sleep, eat, or do anything but study and build) to be the quintessential
+    <p class="mb-1">Revanth competed in Science Olympiad for 5 years in middle and high school. He has a knack for memorizing vast quantities of information, which makes events like Rocks and Minerals
+    perfect for him. He also loves building and physics, and he considers the 48 hours before a tournament (in which he does not sleep, eat, or do anything but study and build) to be the quintessential
     Science Olympiad experience.
   </p>
 
@@ -110,13 +110,13 @@ Riya loves being part of Science Olympiad because it challenges her to think abo
   </li>
   <li class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
-      <strong> Earth/Space Chair </strong>
+      <strong> Earth/Space </strong>
       <span> Revanth Gumpu </span>
     </div>
   </li>
   <li class="list-group-item">
     <div class="d-flex w-100 justify-content-between">
-      <strong> Building Chair </strong>
+      <strong> Build </strong>
       <span>Chris Fulton</span>
     </div>
   </li>
