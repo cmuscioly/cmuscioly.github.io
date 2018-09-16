@@ -30,7 +30,7 @@ TBA
 
 # Events
 <hr>
-We plan to run all 23 of the official 2019 Division C events. We will not be running any trial events, but this is subject to change. Wherever it makes a difference, we will be following **regional rules**.
+We plan to run all 23 of the official 2019 Division C events. We will not be running any trial events. Wherever it makes a difference, we will be following **regional rules**.
 
 # Accommodations
 <hr>
