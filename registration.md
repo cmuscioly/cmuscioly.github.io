@@ -7,7 +7,7 @@ permalink: /registration/
 # Registration
 <hr>
 
-**UPDATE:** Registration will open on **Saturday, September 22nd** around noon.
+**UPDATE:** [Registration is live!](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
 
 ## Process
 
@@ -24,3 +24,4 @@ the confirmation email.
 - All teams are limited to 15 competing members as per Pennsylvania State rules.
 - Due to limited availability of resources, we will only be able to accept the first 25 teams to fill out the form. Other teams will be placed on a waitlist.
 - Each school may bring at most two teams.
+- All teams must be registered with their corresponding state's Science Olympiad organization
