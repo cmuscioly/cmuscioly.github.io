@@ -25,3 +25,10 @@ the confirmation email.
 - Due to limited availability of resources, we will only be able to accept the first 25 teams to fill out the form. Other teams will be placed on a waitlist.
 - Each school may bring at most two teams.
 - All teams must be registered with their corresponding state's Science Olympiad organization
+
+## Registration Forms
+- <a href="/assets/Coach Responsibility Form.pdf" target="_blank">Coach Responsibility Form</a>
+- <a href="/assets/Code of Conduct.pdf" target="_blank">Code of Conduct</a>
+- <a href="/assets/Medical Form.pdf" target="_blank">Medical Form</a>
+- <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
+- <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
