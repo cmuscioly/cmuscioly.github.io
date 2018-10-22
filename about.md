@@ -127,7 +127,7 @@ members who have worked together to prepare for next year's tournament. The orga
 We'd like to thank our sponsors, the Carnegie Mellon Senate and the Carnegie Mellon Student Government, for their generosity. This tournament
 would not be possible without their support.
 
-Special thanks to Katherine Zhang for designing our logo.
+Special thanks to [Katherine Zhang](https://www.kzhangart.com/) for designing our logo.
 
 # Contact Us
 <hr>
