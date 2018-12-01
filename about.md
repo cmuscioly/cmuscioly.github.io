@@ -124,8 +124,21 @@ members who have worked together to prepare for next year's tournament. The orga
 
 # Our Supporters
 <hr>
-We'd like to thank our sponsors, the Carnegie Mellon Senate and the Carnegie Mellon Student Government, for their generosity. This tournament
+We'd like to thank our sponsors, the Carnegie Mellon Student Government, the Leonard Gelfand Center for Service Learning and Outreach,
+the Mellon College of Science, and the Carnegie Mellon Senate. This tournament
 would not be possible without their support.
+
+<div class="row">
+<div class="col-md-6">
+<img src="/assets/govt.png" style="width: 75%; max-width: 100%; display: block; margin-right: auto; margin-left: auto;">
+</div>
+<div class="col-md-6">
+<img src="/assets/mellon.png" style="width: 75%; max-width: 100%; display: block; margin-right: auto; margin-left: auto;">
+</div>
+</div>
+
+<img src="/assets/gelfand_logo_shapes_and_text.jpg" style="max-width: 100%; width: 100%;">
+<img src="/assets/senate.png" style="max-width: 100%; width: 100%;">
 
 Special thanks to [Katherine Zhang](https://www.kzhangart.com/) for designing our logo.
 
