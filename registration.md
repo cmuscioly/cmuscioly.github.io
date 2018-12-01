@@ -7,7 +7,8 @@ permalink: /registration/
 # Registration
 <hr>
 
-**UPDATE:** [Registration is live!](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
+**UPDATE:** Registration closes December 7th. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
+soon!
 
 ## Process
 
