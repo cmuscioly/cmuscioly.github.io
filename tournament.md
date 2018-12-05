@@ -26,7 +26,8 @@ day will be streamlined.
 
 # Schedule
 <hr>
-TBA
+You can find the schedule and team number assignments <a href="https://docs.google.com/spreadsheets/d/17RPOM_qKcdx9-vVmPz2Zc_QLzgSoT2zwnKdJ_LeaZnw/edit?usp=sharing" target="_blank">here</a>.
+This document is not yet final, and will be updated in the days coming up to the competition.
 
 # Events
 <hr>
