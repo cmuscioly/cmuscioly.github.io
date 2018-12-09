@@ -10,6 +10,19 @@ Carnegie Mellon University will be hosting its first Science Olympiad Division C
 As a mecca of STEM innovation, CMU is the perfect location to host a Science Olympiad tournament.
 We’re excited to share the Carnegie Mellon experience with you!
 
+# Schedule
+<hr>
+You can find the schedule and team number assignments <a href="https://docs.google.com/spreadsheets/d/17RPOM_qKcdx9-vVmPz2Zc_QLzgSoT2zwnKdJ_LeaZnw/edit?usp=sharing" target="_blank">here</a>.
+This document is not yet final, and will be updated in the days coming up to the competition.
+
+# Forms
+<hr>
+- <a href="/assets/Coach Responsibility Form.pdf" target="_blank">Coach Responsibility Form</a>
+- <a href="/assets/Code of Conduct.pdf" target="_blank">Code of Conduct</a>
+- <a href="/assets/Medical Form.pdf" target="_blank">Medical Form</a>
+- <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
+- <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
+
 # Tournament Philosophy
 <hr>
 
@@ -23,11 +36,6 @@ any other form of assistance.
 - **Streamlined Registration process:** We want to make the process of registering and attending our invitational as efficient as possible. As such, we plan to implement a registration
 process that will keep the amount of paperwork to a minimum. We will also distribute as much information as possible online before the tournament, so that all operations on the big
 day will be streamlined.
-
-# Schedule
-<hr>
-You can find the schedule and team number assignments <a href="https://docs.google.com/spreadsheets/d/17RPOM_qKcdx9-vVmPz2Zc_QLzgSoT2zwnKdJ_LeaZnw/edit?usp=sharing" target="_blank">here</a>.
-This document is not yet final, and will be updated in the days coming up to the competition.
 
 # Events
 <hr>
