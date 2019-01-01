@@ -22,6 +22,7 @@ This document is not yet final, and will be updated in the days coming up to the
 - <a href="/assets/Medical Form.pdf" target="_blank">Medical Form</a>
 - <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
 - <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
+- <a href="/assets/OneTime-Event-Release-Form.pdf" target="_blank">Event Release Form</a>
 
 # Tournament Philosophy
 <hr>
