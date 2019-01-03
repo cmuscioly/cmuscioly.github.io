@@ -51,8 +51,8 @@ CMU campus is located at 5000 Forbes Avenue, Pittsburgh, PA 15213. Click <a href
 
 ## Parking
 
-Carnegie Mellon provides visitor parking. There are 4 garages; if those are full, there is metered street parking on streets around campus. Visit <a href="https://www.cmu.edu/visit/maps-parking-transportation.html" target="_blank">this link</a> for more information.
-
+Buses can park in Schenley Park (located less than 5 minutes from campus) free of charge. Free parking for smaller vehicles is available in the East Campus garage, located next to
+the Cohon University Center.
 
 ## Hotels
 
