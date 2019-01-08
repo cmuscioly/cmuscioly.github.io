@@ -15,6 +15,20 @@ CMU Science Olympiad is a student-run organization that seeks to inspire interes
 The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated
 members who have worked together to prepare for next year's tournament. The organization plans to host its first invitational tournament in early 2019.
 
+# Tournament Philosophy
+<hr>
+
+We are all former Science Olympians, and collectively, we’ve been to tournaments all over the nation. We have designed CMU Science Olympiad with all our experiences in mind, to make yours as enjoyable as it possibly could be. Some of the key aspects of CMU Science Olympiad include:
+- **High Quality Exams:** Exams are the core of any Science Olympiad experience. Our team focuses on writing high quality exams, and we strive to stay consistent with the official rules while making our exams challenging. We believe that this approach will create a maximally enjoyable experience for our competitors while
+also preparing them for future Science Olympiad tournaments.
+- **Exams and Answer Keys returned post-tournament:** We grade and return all exams to teams. Blank copies of the exams and answer keys will be made available to all attending teams, for additional review and practice.
+- **Rigorous Build Testing:** Among our staff are national building medalists who know the rules inside and out. Some are also active Pennsylvania state event supervisors, and our Build Chair has participated in the writing of the national Scrambler rules. We will assess builds strictly but fairly, while providing quality feedback.
+- **Dedicated Volunteers:** A college campus can be confusing to navigate. You can count on our helpful volunteer staff to get you to your events and provide
+any other form of assistance.
+- **Streamlined Registration process:** We want to make the process of registering and attending our invitational as efficient as possible. As such, we plan to implement a registration
+process that will keep the amount of paperwork to a minimum. We will also distribute as much information as possible online before the tournament, so that all operations on the big
+day will be streamlined.
+
 # The Team
 <hr>
 ## Executive Board

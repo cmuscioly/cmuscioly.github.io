@@ -15,6 +15,8 @@ We’re excited to share the Carnegie Mellon experience with you!
 You can find the schedule and team number assignments <a href="https://docs.google.com/spreadsheets/d/17RPOM_qKcdx9-vVmPz2Zc_QLzgSoT2zwnKdJ_LeaZnw/edit?usp=sharing" target="_blank">here</a>.
 This document is not yet final, and will be updated in the days coming up to the competition.
 
+<a href="https://www.cmu.edu/assets/pdfs/campus-map-2018-8.5x11.pdf" target="_blank">Here is a campus map</a> that you can use to locate event rooms.
+
 # Forms
 <hr>
 - <a href="/assets/Coach Responsibility Form.pdf" target="_blank">Coach Responsibility Form</a>
@@ -23,20 +25,6 @@ This document is not yet final, and will be updated in the days coming up to the
 - <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
 - <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
 - <a href="/assets/OneTime-Event-Release-Form.pdf" target="_blank">Event Release Form</a>
-
-# Tournament Philosophy
-<hr>
-
-We are all former Science Olympians, and collectively, we’ve been to tournaments all over the nation. We have designed CMU Science Olympiad with all our experiences in mind, to make yours as enjoyable as it possibly could be. Some of the key aspects of CMU Science Olympiad include:
-- **High Quality Exams:** Exams are the core of any Science Olympiad experience. Our team focuses on writing high quality exams, and we strive to stay consistent with the official rules while making our exams challenging. We believe that this approach will create a maximally enjoyable experience for our competitors while
-also preparing them for future Science Olympiad tournaments.
-- **Exams and Answer Keys returned post-tournament:** We grade and return all exams to teams. Blank copies of the exams and answer keys will be made available to all attending teams, for additional review and practice.
-- **Rigorous Build Testing:** Among our staff are national building medalists who know the rules inside and out. Some are also active Pennsylvania state event supervisors, and our Build Chair has participated in the writing of the national Scrambler rules. We will assess builds strictly but fairly, while providing quality feedback.
-- **Dedicated Volunteers:** A college campus can be confusing to navigate. You can count on our helpful volunteer staff to get you to your events and provide
-any other form of assistance.
-- **Streamlined Registration process:** We want to make the process of registering and attending our invitational as efficient as possible. As such, we plan to implement a registration
-process that will keep the amount of paperwork to a minimum. We will also distribute as much information as possible online before the tournament, so that all operations on the big
-day will be streamlined.
 
 # Events
 <hr>
@@ -60,7 +48,7 @@ Carnegie Mellon is located in the middle of a few different neighborhoods with h
 
 ## Food
 
-Carnegie Mellon hosts a wide variety of food vendors located throughout campus. For information about which eateries are open at any given time and their locations, please check <a href="http://cmueats.com" target="_blank">this link</a>. Please be aware that since the invitational is taking place during the Carnegie Mellon winter break and on a weekend, on-campus options may be limited.
+Since the tournament takes place on a weekend during winter break, not many on-campus locations are open. See <a href="https://apps.studentaffairs.cmu.edu/dining/conceptinfo/?page=listConceptsGrid&startDate=01%2F12%2F2019&searchLength=1&Search=&Locations=21&Locations=2&Locations=18&Locations=5&Locations=1&Locations=22&Locations=25&Locations=24&Locations=23&Locations=19&Locations=20&Locations=15&Locations=27&Locations=26&Locations=28&Locations=17" target="_blank">here</a> for a full list of open locations and their hours.
 
 Some great off campus food options include:
 
