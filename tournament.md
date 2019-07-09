@@ -4,7 +4,13 @@ title: Tournament Information
 permalink: /tournament/
 ---
 
-# Tournament Information
+# 2020 Tournament
+<hr>
+We will host our second invitational tournament on
+**Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
+More details will be coming in the fall!
+
+# 2019 Tournament
 <hr>
 We hosted the first CMU Science Olympiad Division C Invitational Tournament on **Saturday, January 12th, 2019** on Carnegie Mellon's campus in Pittsburgh, Pennsylvania.
 As a mecca of STEM innovation, CMU is the perfect location to host a Science Olympiad tournament.
