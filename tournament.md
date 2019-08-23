@@ -10,8 +10,8 @@ We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
 More details will be coming in the fall!
 
-In the meantime, if you're interested in attending,
-<strong><a href="https://forms.gle/uUAmnpBDxtRqe7wNA">please fill out our interest form</a></strong>!
+In the meantime, if you're interested in attending, please see the
+<a href="/registration/">registration page</a> for more information.
 
 # 2019 Tournament
 <hr>

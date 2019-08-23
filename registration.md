@@ -7,7 +7,8 @@ permalink: /registration/
 # Registration
 <hr>
 
-Registration for the 2020 Invitational will open in **late August 2020.**
+Registration for the 2020 Invitational will open on
+**Tuesday, October 1, 2019.**
 
 In the meantime, if you're interested in attending,
 <strong><a href="https://forms.gle/uUAmnpBDxtRqe7wNA">please fill out our interest form</a></strong>
