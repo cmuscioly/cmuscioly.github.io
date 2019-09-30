@@ -36,8 +36,8 @@ Shortly after you complete the registration form, we will send you a confirmatio
 
 These forms must be turned in at check-in on the day of the competition.
 
-- Coach Responsibility Form
-- Code of Conduct
-- Medical Form
-- Talent Release Form
-- Vandalism Form
+- <a href="/assets/Coach Responsibility Form.pdf" target="_blank">Coach Responsibility Form</a>
+- <a href="/assets/Code of Conduct.pdf" target="_blank">Code of Conduct</a>
+- <a href="/assets/Medical Form.pdf" target="_blank">Medical Form</a>
+- <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
+- <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
