@@ -14,6 +14,8 @@ In the meantime, if you're interested in attending,
 <strong><a href="https://forms.gle/uUAmnpBDxtRqe7wNA">please fill out our interest form</a></strong>
 so we can keep you up to date with the latest!
 
+Don't hesitate to send us an email at [cmuscioly@gmail.com](mailto:cmuscioly@gmail.com) if you have any questions.
+
 ## Process
 
 We will post a form asking for
@@ -22,13 +24,20 @@ We will post a form asking for
 - Number of teams to register
 
 Shortly after you complete the registration form, we will send you a confirmation email.
-A registration payment <!--of $100 per team--> is due within two weeks after you receive
-the confirmation email.
+**A registration payment of $100 per team is due within two weeks after you receive the confirmation email.**
 
-<!--
 ## Registration Rules
 - All teams are limited to 15 competing members as per Pennsylvania State rules.
 - Due to limited availability of resources, we will only be able to accept the first 25 teams to fill out the form. Other teams will be placed on a waitlist.
-- Each school may bring at most two teams.
+- Each school may bring at most **three teams**.
 - All teams must be registered with their corresponding state's Science Olympiad organization.
--->
+
+## Registration Forms
+
+These forms must be turned in at check-in on the day of the competition.
+
+- Coach Responsibility Form
+- Code of Conduct
+- Medical Form
+- Talent Release Form
+- Vandalism Form
