@@ -7,12 +7,9 @@ permalink: /registration/
 # Registration
 <hr>
 
-Registration for the 2020 Invitational will open on
-**Tuesday, October 1, 2019.**
-
-In the meantime, if you're interested in attending,
-<strong><a href="https://forms.gle/uUAmnpBDxtRqe7wNA">please fill out our interest form</a></strong>
-so we can keep you up to date with the latest!
+Registration for the 2020 Invitational is open as of
+Tuesday, October 1, 2019!
+[**Access the registration form here.**](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
 
 Don't hesitate to send us an email at [cmuscioly@gmail.com](mailto:cmuscioly@gmail.com) if you have any questions.
 
