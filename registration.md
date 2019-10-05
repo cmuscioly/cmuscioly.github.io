@@ -11,7 +11,7 @@ Registration for the 2020 Invitational is open as of
 Tuesday, October 1, 2019!
 [**Access the registration form here.**](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
 
-As of Thursday, October 3, we already have **18 teams** registered, and we
+As of Saturday, October 5, we already have **20 teams** registered, and we
 can only accept a maximum of 25! Make sure to register soon if your team is
 thinking of attending.
 
@@ -25,7 +25,7 @@ We will post a form asking for
 - Number of teams to register
 
 Shortly after you complete the registration form, we will send you a confirmation email.
-**A registration payment of $100 per team is due within two weeks after you receive the confirmation email.**
+**A nonrefundable registration payment of $100 per team is due within two weeks** after you receive the confirmation email, or by November 1, whichever is later.
 
 ## Registration Rules
 - All teams are limited to 15 competing members as per Pennsylvania State rules.
