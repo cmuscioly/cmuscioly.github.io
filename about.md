@@ -7,7 +7,7 @@ permalink: /about/
 # Our Mission
 <hr>
 
-CMU Science Olympiad is a student-run organization that seeks to inspire interest in the study of science, technology, engineering, and mathematics (STEM) among youth by hosting annual Science Olympiad intvitational tournaments. Our tournament features challenging exams and rigorous competition, and teams will find it to provide invaluable preparation for Science Olympiad competitions at the regional, state, and national levels.
+CMU Science Olympiad is a student-run organization that seeks to inspire interest in the study of science, technology, engineering, and mathematics (STEM) among youth by hosting annual Science Olympiad invitational tournaments. Our tournament features challenging exams and rigorous competition, and teams will find it to provide invaluable preparation for Science Olympiad competitions at the regional, state, and national levels.
 
 # History
 <hr>
@@ -68,7 +68,7 @@ day will be streamlined.
 
   <div class="list-group-item flex-column align-items-start">
     <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Zack Lee</strong> </h4>
+      <h4> <strong>Niki Murikinati</strong> </h4>
       <small>Treasurer</small>
     </div>
     <small class="text-muted"> Computer Science 2022 </small>
