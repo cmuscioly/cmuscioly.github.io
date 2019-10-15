@@ -11,9 +11,8 @@ Registration for the 2020 Invitational is open as of
 Tuesday, October 1, 2019!
 [**Access the registration form here.**](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link)
 
-As of Saturday, October 5, we already have **20 teams** registered, and we
-can only accept a maximum of 25! Make sure to register soon if your team is
-thinking of attending.
+As of Monday, October 14, we already have **24 teams** registered. We can
+only accept registration for one more team, so register soon!
 
 Don't hesitate to send us an email at [cmuscioly@gmail.com](mailto:cmuscioly@gmail.com) if you have any questions.
 
