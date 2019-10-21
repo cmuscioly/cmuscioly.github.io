@@ -10,7 +10,7 @@ permalink: /registration/
 As of Wednesday, October 16, **we have reached our registration cap of
 25 teams.**
 
-If your team is still be interested in participating, you can still
+If your team is still interested in participating, you can
 [**join the waitlist**](https://docs.google.com/forms/d/e/1FAIpQLSdqyPG1lmWlYSCofEADA0a63MBpba7Ygvw8ei4NN6Y5AkZGyw/viewform?usp=sf_link).
 
 Don't hesitate to send us an email at [cmuscioly@gmail.com](mailto:cmuscioly@gmail.com) if you have any questions.
