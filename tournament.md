@@ -8,10 +8,57 @@ permalink: /tournament/
 <hr>
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
-More details will be coming in the fall!
-
-In the meantime, if you're interested in attending, please see the
+If you're interested in attending, please see the
 <a href="/registration/">registration page</a> for more information.
+
+## Schedule of events
+
+We plan to run all 23 of the official 2019 Division C events.
+We will not be running any trial events.
+Wherever it makes a difference, we will be following **regional rules**.
+
+Below is a preliminary schedule of events. Times and locations have not been
+finalized, and will be updated leading up to the competition.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGCAjDyb0cQyBxhh4QIrr-0mCaXo0dksBqskj5arCj9Se6v_yLz1kC5CKe6kIM-SHqR0W9Icjkk-Gt/pubhtml?gid=1346582439&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
+
+## Accomodations
+
+### Directions
+
+Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. Click <a href="https://www.google.com/maps?saddr=My+Location&daddr=Carnegie+Mellon+University" target="_blank">here</a> for directions.
+
+You can find several versions of the campus map on
+[CMU's website](https://www.cmu.edu/visit/maps-parking-transportation.html)
+to help you get around campus.
+
+### Parking
+
+Buses can park in Schenley Park (located less than 5 minutes from campus) free of charge.
+For smaller vehicles, free parking is available on weekends and after 5pm
+on weekdays in the East Campus garage, located next to the
+Cohon University Center.
+Visit [Parking Services](https://www.cmu.edu/parking/about/) for more information.
+
+### Hotels
+
+Carnegie Mellon is located in the middle of a few different neighborhoods with hotels at a convenient distance from the university.
+Visit [this link](https://admission.enrollment.cmu.edu/pages/accommodations)
+for comprehensive information on options for your stay, including which hotels may have special group rates and shuttle service to campus!
+
+### Food
+
+Since the tournament takes place on a weekend during winter break, not many on-campus locations are open.
+
+Some nearby off-campus food options include:
+
+- **Craig Street** (5 minute walk along Forbes): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crepes Parisienne, Ali Baba Restaurant, and Yuva Indian Kitchen.
+- **Oakland** (10-15 minute walk along Forbes): Noodles and Company, Panera Bread, Fuku Tea, McDonalds, Starbucks, Dunkin Donuts, and Primanti Brothers.
+- **Squirrel Hill** (10 minute inward-bound bus ride on 61A, B, C, or D):  Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, and more.
+
+For lunch on the day of the tournament, we will also provide a form
+to help teams order pizza.
+
 
 # 2019 Tournament
 <hr>
