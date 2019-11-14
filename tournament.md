@@ -17,10 +17,14 @@ We plan to run all 23 of the official 2019 Division C events.
 We will not be running any trial events.
 Wherever it makes a difference, we will be following **regional rules**.
 
-Below is a preliminary schedule of events. Times and locations have not been
-finalized, and will be updated leading up to the competition.
+Below is a preliminary schedule of events, as well as preliminary team
+number assignments.
+Times and locations have not been finalized, and will be updated leading
+up to the competition.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGCAjDyb0cQyBxhh4QIrr-0mCaXo0dksBqskj5arCj9Se6v_yLz1kC5CKe6kIM-SHqR0W9Icjkk-Gt/pubhtml?gid=1346582439&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLaXf3LYRb1AoNJmhb57-ZNJCVjUoxx8zH2KBRYwfnJwWZpHYHTFDxHPUqTDwe6_Lez0FoJ-bPOD4K/pubhtml?gid=1566910357&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
 
 ## Accomodations
 
