@@ -33,95 +33,101 @@ day will be streamlined.
 <hr>
 ## Executive Board
 <style> h4 { margin-bottom: 0; } br { line-height: 20px; } </style>
-<div class="list-group" style="margin-bottom: 20px;">
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Sarah Yu</strong> </h4>
-      <small>Co-President</small>
+<div class="row">
+  <div class="col-md-6">
+    <div class="list-group" style="margin-bottom: 20px;">
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Sarah Yu</strong> </h4>
+          <span>Co-President</span>
+        </div>
+        <span class="text-muted"> Biological Sciences 2021 </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Chris Fulton</strong> </h4>
+          <span>Co-President</span>
+        </div>
+        <span class="text-muted"> Electrical and Computer Engineering 2020 </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Riya Bhattacharya</strong> </h4>
+          <span>Vice President, Internal</span>
+        </div>
+        <span class="text-muted"> Chemistry 2021 </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Steve Wong</strong> </h4>
+          <span>Vice President, External</span>
+        </div>
+        <span class="text-muted"> Mathematics 2022 </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Niki Murikinati</strong> </h4>
+          <span>Treasurer</span>
+        </div>
+        <span class="text-muted"> Computer Science 2022 </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4> <strong>Jolie Miller</strong> </h4>
+          <span>Event Chair</span>
+        </div>
+        <span class="text-muted"> Chemistry 2021 </span>
+      </div>
     </div>
-    <small class="text-muted"> Biological Sciences 2021 </small>
   </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Chris Fulton</strong> </h4>
-      <small>Co-President</small>
+  <div class="col-md-6">
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4> <strong>Soumil Mukherjee</strong> </h4>
+        <span>Event Chair</span>
+      </div>
+      <span class="text-muted"> Computer Science 2022 </span>
     </div>
-    <small class="text-muted"> Electrical and Computer Engineering 2020 </small>
-  </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Riya Bhattacharya</strong> </h4>
-      <small>Vice President, Internal</small>
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4> <strong>Erika Kim</strong> </h4>
+        <span>Event Chair</span>
+      </div>
+      <span class="text-muted"> Chemistry 2022 </span>
     </div>
-    <small class="text-muted"> Chemistry 2021 </small>
-  </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Steve Wong</strong> </h4>
-      <small>Vice President, External</small>
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4> <strong>Mansour Elsharawy</strong> </h4>
+        <span>Event Chair</span>
+      </div>
+      <span class="text-muted"> Mechanical and Biomedical Engineering 2022 </span>
     </div>
-    <small class="text-muted"> Mathematics 2022 </small>
-  </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Niki Murikinati</strong> </h4>
-      <small>Treasurer</small>
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4> <strong>Uday Shankar</strong> </h4>
+        <span>Event Chair</span>
+      </div>
+      <span class="text-muted"> Computer Science 2021 </span>
     </div>
-    <small class="text-muted"> Computer Science 2022 </small>
-  </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Jolie Miller</strong> </h4>
-      <small>Event Chair</small>
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4> <strong>Kevin Geng</strong> </h4>
+        <span>Webmaster</span>
+      </div>
+      <span class="text-muted"> Computer Science 2021 </span>
     </div>
-    <small class="text-muted"> Chemistry 2021 </small>
-  </div>
 
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Soumil Mukherjee</strong> </h4>
-      <small>Event Chair</small>
-    </div>
-    <small class="text-muted"> Computer Science 2022 </small>
   </div>
-
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Erika Kim</strong> </h4>
-      <small>Event Chair</small>
-    </div>
-    <small class="text-muted"> Chemistry 2022 </small>
-  </div>
-
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Mansour Elsharawy</strong> </h4>
-      <small>Event Chair</small>
-    </div>
-    <small class="text-muted"> Mechanical and Biomedical Engineering 2022 </small>
-  </div>
-
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Uday Shankar</strong> </h4>
-      <small>Event Chair</small>
-    </div>
-    <small class="text-muted"> Computer Science 2021 </small>
-  </div>
-
-  <div class="list-group-item flex-column align-items-start">
-    <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-      <h4> <strong>Kevin Geng</strong> </h4>
-      <small>Webmaster</small>
-    </div>
-    <small class="text-muted"> Computer Science 2021 </small>
-  </div>
-
 </div>
 
 # Our Supporters
