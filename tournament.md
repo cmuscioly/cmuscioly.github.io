@@ -34,29 +34,31 @@ up to the competition.
 
 Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. Click <a href="https://www.google.com/maps?saddr=My+Location&daddr=Carnegie+Mellon+University" target="_blank">here</a> for directions.
 
-You can find several versions of the campus map on
-[CMU's website](https://www.cmu.edu/visit/maps-parking-transportation.html)
-to help you get around campus.
+CMU maintains several versions of the
+[**campus map**](https://www.cmu.edu/visit/maps-parking-transportation.html)
+which you can print or explore to help you get around campus.
 
 ### Parking
 
-Buses can park in Schenley Park (located less than 5 minutes from campus) free of charge.
 For smaller vehicles, free parking is available on weekends and after 5pm
 on weekdays in the East Campus garage, located next to the
 Cohon University Center.
 Visit [Parking Services](https://www.cmu.edu/parking/about/) for more information.
 
+Buses can park in Schenley Park (located less than 5 minutes from campus) free of charge.
+
 ### Hotels
 
 Carnegie Mellon is located in the middle of a few different neighborhoods with hotels at a convenient distance from the university.
-Visit [this link](https://admission.enrollment.cmu.edu/pages/accommodations)
-for comprehensive information on options for your stay.
+The admissions office maintains a
+[**comprehensive list of hotels**](https://admission.enrollment.cmu.edu/pages/accommodations)
+for your stay.
 
-We believe the following hotels may have bus parking available or nearby, though make sure to confirm before booking:
+The following hotels may have bus parking available or nearby, though make sure to confirm before booking:
 
-* [Hilton Garden Inn Pittsburgh University Place](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/)
-* [Hampton Inn Pittsburgh University / Medical Center](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/)
-* [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp)
+* [Hilton Garden Inn Pittsburgh University Place](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/), 1.1 miles
+* [Hampton Inn Pittsburgh University / Medical Center](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/), 1.5 miles
+* [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp), 1.2 miles (street parking)
 
 ### Food
 
