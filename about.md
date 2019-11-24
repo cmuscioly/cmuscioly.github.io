@@ -132,21 +132,34 @@ day will be streamlined.
 
 # Our Supporters
 <hr>
-We'd like to thank our sponsors, the Carnegie Mellon Student Government, the Leonard Gelfand Center for Service Learning and Outreach,
+
+<p>
+We'd like to thank our first corporate sponsor for the 2020 tournament, General Motors, for providing the support needed to make this invitational a reality.
+</p>
+
+<p style="text-align: center;">
+<img src="/assets/GM_logo_512.jpg" width="192" height="192">
+</p>
+
+<p>
+We'd also like to thank our sponsors at CMU: the Carnegie Mellon Student Government, the Leonard Gelfand Center for Service Learning and Outreach,
 the Mellon College of Science, and the Carnegie Mellon Senate. This tournament
 would not be possible without their support.
+</p>
 
-<div class="row">
-<div class="col-md-6">
+<div class="row mt-2 mb-4">
+<div class="col-md-4">
 <img src="/assets/govt.png" style="width: 75%; max-width: 100%; display: block; margin-right: auto; margin-left: auto;">
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
 <img src="/assets/mellon.png" style="width: 75%; max-width: 100%; display: block; margin-right: auto; margin-left: auto;">
 </div>
-</div>
-
+<div class="col-md-4">
 <img src="/assets/gelfand_logo_shapes_and_text.jpg" style="max-width: 100%; width: 100%;">
+<br><br><br>
 <img src="/assets/senate.png" style="max-width: 100%; width: 100%;">
+</div>
+</div>
 
 Special thanks to [Katherine Zhang](https://www.kzhangart.com/) for designing our logo.
 
