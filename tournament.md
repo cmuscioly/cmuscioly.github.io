@@ -6,6 +6,8 @@ permalink: /tournament/
 
 # 2020 Tournament
 <hr>
+_Last updated: Sunday, November 24, 2019_
+
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
 If you're interested in attending, please see the
@@ -48,7 +50,13 @@ Visit [Parking Services](https://www.cmu.edu/parking/about/) for more informatio
 
 Carnegie Mellon is located in the middle of a few different neighborhoods with hotels at a convenient distance from the university.
 Visit [this link](https://admission.enrollment.cmu.edu/pages/accommodations)
-for comprehensive information on options for your stay, including which hotels may have special group rates and shuttle service to campus!
+for comprehensive information on options for your stay.
+
+We believe the following hotels may have bus parking available or nearby, though make sure to confirm before booking:
+
+* [Hilton Garden Inn Pittsburgh University Place](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/)
+* [Hampton Inn Pittsburgh University / Medical Center](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/)
+* [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp)
 
 ### Food
 
@@ -56,12 +64,9 @@ Since the tournament takes place on a weekend during winter break, not many on-c
 
 Some nearby off-campus food options include:
 
-- **Craig Street** (5 minute walk along Forbes): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crepes Parisienne, Ali Baba Restaurant, and Yuva Indian Kitchen.
-- **Oakland** (10-15 minute walk along Forbes): Noodles and Company, Panera Bread, Fuku Tea, McDonalds, Starbucks, Dunkin Donuts, and Primanti Brothers.
-- **Squirrel Hill** (10 minute inward-bound bus ride on 61A, B, C, or D):  Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, and more.
-
-For lunch on the day of the tournament, we will also provide a form
-to help teams order pizza.
+- **Craig Street** (5 minute walk along Forbes Ave): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu&rsquo;s Noodles, Cr&egrave;pes Parisiennes, Ali Baba Restaurant, Yuva Indian Kitchen, Rose Tea Cafe Express...
+- **Oakland** (15 minute walk along Forbes Ave): Noodles & Company, Panera Bread, Fuku Tea, McDonald&rsquo;s, Starbucks, Dunkin&rsquo; Donuts, Primanti Brothers, Piada Italian Street Food, LOTSA Pizza, Five Guys, Mt. Everest Sushi, Hello Bistro, Hunan Bar...
+- **Squirrel Hill** (5 minute drive along Forbes Ave):  Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, Eat&rsquo;n Park, Sichuan Gourmet, Aiello&rsquo;s Pizza...
 
 
 # 2019 Tournament
