@@ -19,9 +19,8 @@ We plan to run all 23 of the official 2019 Division C events.
 We will not be running any trial events.
 Wherever it makes a difference, we will be following **regional rules**.
 
-Below is a preliminary schedule of events, as well as preliminary team
-number assignments.
-Times and locations have not been finalized, and will be updated leading
+Below are the schedule of events for tournament day, and team number assignments.
+Note that **locations are not finalized,** and may be updated leading
 up to the competition.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGCAjDyb0cQyBxhh4QIrr-0mCaXo0dksBqskj5arCj9Se6v_yLz1kC5CKe6kIM-SHqR0W9Icjkk-Gt/pubhtml?gid=1346582439&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
@@ -54,11 +53,11 @@ The admissions office maintains a
 [**comprehensive list of hotels**](https://admission.enrollment.cmu.edu/pages/accommodations)
 for your stay.
 
-The following hotels may have bus parking available or nearby, though make sure to confirm before booking:
+The following hotels have bus parking available or nearby:
 
 * [Hilton Garden Inn Pittsburgh University Place](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/), 1.1 miles
 * [Hampton Inn Pittsburgh University / Medical Center](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/), 1.5 miles
-* [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp), 1.2 miles (street parking)
+* [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp), 1.2 miles (bus parking on the street, not in hotel)
 
 ### Food
 
