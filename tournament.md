@@ -6,7 +6,7 @@ permalink: /tournament/
 
 # 2020 Tournament
 <hr>
-_Last updated: Sunday, November 24, 2019_
+_Last updated: Monday, November 25, 2019_
 
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
