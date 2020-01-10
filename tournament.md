@@ -6,7 +6,7 @@ permalink: /tournament/
 
 # 2020 Tournament
 <hr>
-_Last updated: Monday, November 25, 2019_
+_Last updated: Friday, January 10, 2020_
 
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
@@ -19,12 +19,18 @@ We plan to run all 23 of the official 2019 Division C events.
 We will not be running any trial events.
 Wherever it makes a difference, we will be following **regional rules**.
 
+Below are some PDFs with information for tournament day.
+
+* [Event schedule](assets/event_schedule.pdf) (same as below)
+* [Team numbers](assets/team_numbers.pdf) (same as below)
+* [Contact sheet](assets/contact_sheet.pdf)
+* [Location guide](assets/location_guide.pdf)
+* [Campus map](assets/Campus Map.pdf)
+
 Below are the schedule of events for tournament day, and team number assignments.
-Note that **locations are not finalized,** and may be updated leading
-up to the competition.
-
+ 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGCAjDyb0cQyBxhh4QIrr-0mCaXo0dksBqskj5arCj9Se6v_yLz1kC5CKe6kIM-SHqR0W9Icjkk-Gt/pubhtml?gid=1346582439&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
-
+-
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLaXf3LYRb1AoNJmhb57-ZNJCVjUoxx8zH2KBRYwfnJwWZpHYHTFDxHPUqTDwe6_Lez0FoJ-bPOD4K/pubhtml?gid=1566910357&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
 
 ## Accomodations
@@ -36,6 +42,9 @@ Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. 
 CMU maintains several versions of the
 [**campus map**](https://www.cmu.edu/visit/maps-parking-transportation.html)
 which you can print or explore to help you get around campus.
+
+See the location guide above for pictures of each of the buildings that
+will be used during the event.
 
 ### Parking
 
