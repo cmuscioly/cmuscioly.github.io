@@ -8,7 +8,9 @@ permalink: /tournament/
 <hr>
 _Last updated: Friday, January 10, 2020_
 
-_Update: Circuit Lab is in HH A101, not A110._
+_Update 01/20: Circuit Lab is in HH A101, not A110._
+
+_Update 01/20: links to on-campus dining locations added._
 
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
@@ -72,7 +74,7 @@ The following hotels have bus parking available or nearby:
 
 ### Food
 
-Since the tournament takes place on a weekend during winter break, not many on-campus locations are open.
+Since the tournament takes place on a weekend during winter break, on-campus dining locations may be closed. Visit [CMU Dining](https://apps.studentaffairs.cmu.edu/dining/conceptinfo/?page=listConcepts) for a list of on-campus dining locations and hours.
 
 Some nearby off-campus food options include:
 
