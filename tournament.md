@@ -7,6 +7,7 @@ permalink: /tournament/
 # 2020 Tournament
 <hr>
 _Last updated: Friday, January 10, 2020_
+_Circuit Lab is in HH A101, not A110._
 
 We will host our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
