@@ -5,6 +5,12 @@ permalink: /registration/
 ---
 
 # Registration
+
+Our 2020 invitational is over! Check back in next fall for information
+about next year's invitational.
+
+<!--
+# Registration
 <hr>
 
 As of Wednesday, October 16, **we have reached our registration cap of
@@ -40,3 +46,4 @@ These forms must be turned in at check-in on the day of the competition.
 - <a href="/assets/Medical Form.pdf" target="_blank">Medical Form</a>
 - <a href="/assets/Talent Release Form.pdf" target="_blank">Talent Release Form</a>
 - <a href="/assets/Vandalism Form.pdf" target="_blank">Vandalism Form</a>
+-->
