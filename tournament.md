@@ -8,16 +8,14 @@ permalink: /tournament/
 <hr>
 _Last updated: Friday, January 10, 2020_
 
-_Update 01/10: Circuit Lab is in HH A101, not A110._
-
-_Update 01/10: links to on-campus dining locations added._
-
-_Update 01/11 7:30am: Protein Modeling exam moved to *WEH 5202*_
-
-We will host our second invitational tournament on
+We hosted our second invitational tournament on
 **Saturday, January 11th, 2020**, on Carnegie Mellon's Pittsburgh campus.
-If you're interested in attending, please see the
-<a href="/registration/">registration page</a> for more information.
+
+## Results
+
+The tournament's over! See the [**final tournament results**](assets/results_2020.pdf).
+
+Tests and answer keys will be posted in the near future.
 
 ## Schedule of events
 
@@ -32,12 +30,6 @@ Below are some PDFs with information for tournament day.
 * [Contact sheet](assets/contact_sheet.pdf)
 * [Location guide](assets/location_guide.pdf)
 * [Campus map](assets/Campus Map.pdf)
-
-Below are the schedule of events for tournament day, and team number assignments.
- 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGCAjDyb0cQyBxhh4QIrr-0mCaXo0dksBqskj5arCj9Se6v_yLz1kC5CKe6kIM-SHqR0W9Icjkk-Gt/pubhtml?gid=1346582439&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
--
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLaXf3LYRb1AoNJmhb57-ZNJCVjUoxx8zH2KBRYwfnJwWZpHYHTFDxHPUqTDwe6_Lez0FoJ-bPOD4K/pubhtml?gid=1566910357&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; min-height: 600px;"></iframe>
 
 ## Accomodations
 
