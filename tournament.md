@@ -13,9 +13,20 @@ We hosted our second invitational tournament on
 
 ## Results
 
-The tournament's over! See the [**final tournament results**](assets/results_2020.pdf).
+See the [**final tournament results**](assets/results_2020.pdf).
 
-Tests and answer keys will be posted in the near future.
+The tournament's over! This year, for our second tournament, we were able
+to host 25 teams &mdash; more than twice as many as the year before!
+Thank you to all the teams who competed, to all the coaches for helping us
+proctor events, and to all the volunteers who helped make this tournament
+a reality. We hope you enjoyed attending our tournament as much as we
+enjoyed hosting it, and we'll see you again next year!
+
+## Tests and answer keys
+
+For now, we will only send electronic copies of the tests and answer keys
+to the teams who attended our tournament. We will release them publicly 
+in May or June 2020, after the national tournament is over.
 
 ## Schedule of events
 
