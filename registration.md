@@ -5,9 +5,11 @@ permalink: /registration/
 ---
 
 # Registration
+<hr>
 
-Our 2020 invitational is over! Check back in next fall for information
-about next year's invitational.
+Our 2020 invitational is over! Please visit our [tournament information page](/tournament/)
+for information regarding the 2021 invitational, and fill out [our interest form](https://docs.google.com/forms/d/e/1FAIpQLSd3ayXBegqOfQ6dHO395-I3V3TKnYjcd53JGWLj0T1MkCHuCA/viewform?usp=sf_link) if you would like to be notified of important updates via email.
+
 
 <!--
 # Registration

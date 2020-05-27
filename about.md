@@ -12,8 +12,7 @@ CMU Science Olympiad is a student-run organization that seeks to inspire interes
 # History
 <hr>
 
-The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated
-members who have worked together to prepare for next year's tournament. The organization ~~plans to host~~ HAS SUCCESSFULLY HOSTED its first invitational tournament in early 2019.
+The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated members who work together to prepare for each year's event. The organization hosted its first tournament for twelve teams on January 12th, 2019, and a second tournament on January 11th, 2020 with more than twice as many teams in attendance. For more information on past tournaments, visit our [archive](/archive/).
 
 # Tournament Philosophy
 <hr>
