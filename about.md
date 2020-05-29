@@ -37,93 +37,110 @@ day will be streamlined.
     <div class="list-group" style="margin-bottom: 20px;">
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Sarah Yu</strong> </h4>
-          <span>Co-President</span>
+          <h4><strong> Sarah Yu </strong></h4>
+          <span class="text-muted"> Biological Sciences 2021 </span>
         </div>
-        <span class="text-muted"> Biological Sciences 2021 </span>
+        <span> President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Chris Fulton</strong> </h4>
-          <span>Co-President</span>
+          <h4><strong> Riya Bhattacharya </strong></h4>
+          <span class="text-muted"> Chemistry 2021 </span>
         </div>
-        <span class="text-muted"> Electrical and Computer Engineering 2020 </span>
+        <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Riya Bhattacharya</strong> </h4>
-          <span>Vice President, Internal</span>
+          <h4><strong> Erika Kim </strong></h4>
+          <span class="text-muted"> Chemistry 2022 </span>
         </div>
-        <span class="text-muted"> Chemistry 2021 </span>
+        <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Steve Wong</strong> </h4>
-          <span>Vice President, External</span>
+          <h4><strong> Niki Murikinati </strong></h4>
+          <span class="text-muted"> Computer Science 2022 </span>
         </div>
-        <span class="text-muted"> Mathematics 2022 </span>
+        <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Niki Murikinati</strong> </h4>
-          <span>Treasurer</span>
+          <h4><strong> Steve Wong </strong></h4>
+          <span class="text-muted"> Mathematics 2022 </span>
         </div>
-        <span class="text-muted"> Computer Science 2022 </span>
+        <span> Treasurer </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4> <strong>Jolie Miller</strong> </h4>
-          <span>Event Chair</span>
+          <h4><strong> Kevin Geng </strong></h4>
+          <span class="text-muted"> Computer Science 2021 </span>
         </div>
-        <span class="text-muted"> Chemistry 2021 </span>
+        <span> Webmaster </span>
       </div>
     </div>
+
   </div>
 
   <div class="col-md-6">
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4> <strong>Soumil Mukherjee</strong> </h4>
-        <span>Event Chair</span>
+        <h4><strong> John Quinlan </strong></h4>
+        <span class="text-muted"> Science and Arts 2023 </span>
       </div>
-      <span class="text-muted"> Computer Science 2022 </span>
+      <span> Event Chair: ED, Sounds, WIDI </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4> <strong>Erika Kim</strong> </h4>
-        <span>Event Chair</span>
+        <h4><strong> Wonhee Han </strong></h4>
+        <span class="text-muted"> Science and Humanities Scholars 2021 </span>
       </div>
-      <span class="text-muted"> Chemistry 2022 </span>
+      <span> Event Chair: Anatomy, Disease, Water </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4> <strong>Mansour Elsharawy</strong> </h4>
-        <span>Event Chair</span>
+        <h4><strong> Uday Shankur </strong></h4>
+        <span class="text-muted"> Computer Science 2021 </span>
       </div>
-      <span class="text-muted"> Mechanical and Biomedical Engineering 2022 </span>
+      <span> Event Chair: Circuit, Detector, Geo Mapping, Protein </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4> <strong>Uday Shankar</strong> </h4>
-        <span>Event Chair</span>
+        <h4><strong> Jolie Miller </strong></h4>
+        <span class="text-muted"> Chemistry 2021 </span>
       </div>
-      <span class="text-muted"> Computer Science 2021 </span>
+      <span> Event Chair: Genes, Forensics, Ornithology </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4> <strong>Kevin Geng</strong> </h4>
-        <span>Webmaster</span>
+        <h4><strong> William Yan </strong></h4>
+        <span class="text-muted"> ECE 2023 </span>
       </div>
-      <span class="text-muted"> Computer Science 2021 </span>
+      <span> Event Chair: Astro, Chem Lab, Dynamic </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Yunsong Liu </strong></h4>
+        <span class="text-muted"> Computer Science 2023 </span>
+      </div>
+      <span> Event Chair: Code, Fossils, Machines </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Chris Fulton </strong></h4>
+        <span class="text-muted"> ECE 2020 </span>
+      </div>
+      <span> Event Chair: Boom, Gravity, PPP, Wright Stuff </span>
     </div>
 
   </div>
