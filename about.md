@@ -48,7 +48,7 @@ day will be streamlined.
           <h4><strong> Riya Bhattacharya </strong></h4>
           <span class="text-muted"> Chemistry 2021 </span>
         </div>
-        <span> Vice President </span>
+        <span> President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
