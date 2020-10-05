@@ -7,8 +7,31 @@ permalink: /registration/
 # Registration
 <hr>
 
-Our 2020 invitational is over! Please visit our [tournament information page](/tournament/)
-for information regarding the 2021 invitational, and fill out [our interest form](https://docs.google.com/forms/d/e/1FAIpQLSd3ayXBegqOfQ6dHO395-I3V3TKnYjcd53JGWLj0T1MkCHuCA/viewform?usp=sf_link) if you would like to be notified of important updates via email.
+**Our 2021 tournament is coming!**  For information about the format of our 2021
+invitational, please visit our [tournament](/tournament/) page.
+
+Registration will open on
+<a href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20201010T190000Z%2F20201010T190000Z&text=Team%20registration%20opens%20for%20CMU%20Science%20Olympiad%202021&location=https%3A%2F%2Fcmuscioly.org%2F"><strong>October 10, 2020 at 3pm EDT</strong></a>.
+
+* Registration will be first-come, first-served.
+* Our capacity is **25 teams**, with up to 3 teams per school.
+* Any teams registering after the first 25 teams will be placed on a waitlist.
+
+We will also be **waiving** the usual registration fee this year.
+
+
+
+# Mailing list
+
+<hr>
+
+If you are interested in attending the CMU Science Olympiad tournament, please
+sign up for our [**mailing
+list**](https://lists.andrew.cmu.edu/mailman/listinfo/cmuscioly-interest).  We
+expect this list to be low volume, so if you know anyone who might be
+interested in our tournament, please encourage them to self-subscribe.
+
+
 
 
 <!--
