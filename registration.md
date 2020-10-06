@@ -7,18 +7,21 @@ permalink: /registration/
 # Registration
 <hr>
 
-**Our 2021 tournament is coming!**  For information about the format of our 2021
-invitational, please visit our [tournament](/tournament/) page.
+_Our 2021 tournament is coming!_  Read about the format of our 2021
+invitational on our [tournament](/tournament/) page.
 
-Registration will open on
-<a href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20201010T190000Z%2F20201010T190000Z&text=Team%20registration%20opens%20for%20CMU%20Science%20Olympiad%202021&location=https%3A%2F%2Fcmuscioly.org%2F"><strong>October 10, 2020 at 3pm EDT</strong></a>.
+Registration will open on **October 10, 2020 at 3pm EDT** (<a
+href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20201010T190000Z%2F20201010T190000Z&text=Team%20registration%20opens%20for%20CMU%20Science%20Olympiad%202021&location=https%3A%2F%2Fcmuscioly.org%2F"
+target="_blank">Google Calendar</a>).
 
 * Registration will be first-come, first-served.
 * Our capacity is **25 teams**, with up to 3 teams per school.
 * Any teams registering after the first 25 teams will be placed on a waitlist.
+* The registration fee will be waived this year.
 
-We will also be **waiving** the usual registration fee this year.
-
+We are using the <strong><a href="https://scilympiad.com/pa-cmuso"
+target="_blank">Scilympiad platform</a></strong> for registration: please visit
+Scilympiad to register your team once registration opens.
 
 
 # Mailing list
