@@ -11,6 +11,11 @@ Welcome to the 2020-2021 Science Olympiad season! The upcoming season will be
 unique in many ways, but we're pleased to announce that we'll still be bringing
 the CMU Science Olympiad experience to you in a safe and secure manner.
 
+**Update:** Due to the high level of interest in our tournament, we are instead
+planning to run our tournament on multiple days following January 9, 2021, with
+grading and results to come a few days later. We will be releasing more updates
+as we continue to plan; please sign up for our mailing list to stay up to date.
+
 ## Mini SO
 
 The 2021 Carnegie Mellon Science Olympiad Invitational is tentatively scheduled
@@ -29,8 +34,8 @@ hosting a tournament in this format, and we're figuring things out as we go.
 For more information on the "Mini SO" format, please check out the
 <a href="https://www.soinc.org/play/tournaments" target="_blank">National Science Olympiad website</a>.
 
-To register for the tournament, please see our [registration](/registration/)
-page.
+To register for the tournament, and to sign up for our mailing list, please see
+our [registration](/registration/) page.
 
 ## Volunteering
 
