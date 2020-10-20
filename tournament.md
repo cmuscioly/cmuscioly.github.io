@@ -37,10 +37,12 @@ For more information on the "Mini SO" format, please check out the
 
 ## Schedule of Events
 
+<!--
 We are planning to run **all Division C events for Mini SO.** Please check out
 the <a
 href="https://www.soinc.org/sites/default/files/uploaded_files/2021_MiniEvents_090820.pdf"
 target="_blank">Mini SO Event Chart</a> on the Science Olympiad website.
+-->
 
 Wherever it makes a difference, we will be following the **Regionals rules**
 for all events.
