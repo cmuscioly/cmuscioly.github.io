@@ -63,10 +63,14 @@ Thus, our Mini SO tournament will run 19 events total, as follows, with Write
 It CAD It being a **trial event**. Our Scilympiad page has been updated to
 reflect these changes.
 
->   Anatomy, Astronomy, Chem, Circuit Lab, Codebusters, Designer Genes,
->   Detector Building, Disease Detectives, Dynamic Planet, Experimental Design,
->   Forensics Lab, Fossils, Geologic Mapping, Machines, Ornithology, Protein
->   Modeling, Sounds of Music, Water Quality, Write It CAD It
+<blockquote class="ml-4">
+<p>
+  Anatomy, Astronomy, Chem, Circuit Lab, Codebusters, Designer Genes,
+  Detector Building, Disease Detectives, Dynamic Planet, Experimental Design,
+  Forensics Lab, Fossils, Geologic Mapping, Machines, Ornithology, Protein
+  Modeling, Sounds of Music, Water Quality, Write It CAD It
+</p>
+</blockquote>
 
 Wherever it makes a difference, we will be following the **Regionals rules**
 for all events.
