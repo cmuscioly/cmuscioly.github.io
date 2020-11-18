@@ -12,12 +12,27 @@ unique in many ways, but we're pleased to announce that we'll still be bringing
 the CMU Science Olympiad experience to you in a safe and secure manner.
 
 The 2021 Carnegie Mellon Science Olympiad Invitational is tentatively scheduled
-for **January 9th, 2021**. Due to the high level of interest in our tournament,
-we are extending our tournament to also run on **multiple days following
-January 9, 2021**, with grading and results to come a few days later.
+for **Saturday, January 9th, 2021**. Events will only take place on Saturday.
+However, due to the high level of interest, the tournament results will not be
+available until a few days later.
 
 We will be releasing more updates as we continue to plan; please sign up for
 our mailing list to stay up to date.
+
+<div class="row">
+<div class="col-md-6 col-lg-4">
+<div class="card border-info">
+  <h5 class="card-header bg-info text-white">Recent updates</h5>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Oct 10: Registration opened</li>
+    <li class="list-group-item">Oct 11: Registration closed</li>
+    <li class="list-group-item">Nov 12: Event list posted</li>
+    <li class="list-group-item">Nov 17: Event list updated</li>
+  </ul>
+</div>
+</div>
+</div>
+<br>
 
 ## Mini SO
 
@@ -37,12 +52,21 @@ For more information on the "Mini SO" format, please check out the
 
 ## Schedule of Events
 
-<!--
-We are planning to run **all Division C events for Mini SO.** Please check out
-the <a
-href="https://www.soinc.org/sites/default/files/uploaded_files/2021_MiniEvents_090820.pdf"
-target="_blank">Mini SO Event Chart</a> on the Science Olympiad website.
--->
+Our event list has been finalized. In following with the PA Board's decisions,
+we have made the following changes:
+
+1. We will **not run** the Digital Structures event.
+2. We will be using the CAD software **Tinkercad** for **Write It CAD It** (NOT
+   SkyCiv).
+
+Thus, our Mini SO tournament will run 19 events total, as follows, with Write
+It CAD It being a **trial event**. Our Scilympiad page has been updated to
+reflect these changes.
+
+>   Anatomy, Astronomy, Chem, Circuit Lab, Codebusters, Designer Genes,
+>   Detector Building, Disease Detectives, Dynamic Planet, Experimental Design,
+>   Forensics Lab, Fossils, Geologic Mapping, Machines, Ornithology, Protein
+>   Modeling, Sounds of Music, Water Quality, Write It CAD It
 
 Wherever it makes a difference, we will be following the **Regionals rules**
 for all events.
