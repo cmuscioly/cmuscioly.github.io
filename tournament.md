@@ -4,12 +4,6 @@ title: Tournament Information
 permalink: /tournament/
 ---
 
-<style>
-ol, ul {
-  list-style-position: disc !important;
-}
-</style>
-
 # 2021 Tournament
 <hr>
 
