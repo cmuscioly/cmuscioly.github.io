@@ -21,6 +21,24 @@ html, body {
   max-width: 100%;
 }
 
+/**** Navbar ****/
+
+.navbar {
+  background-color: rgba(248, 249, 250, 0) !important;
+  font-family: Montserrat, Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+}
+
+/* Limit height of logo */
+.navbar-left > img {
+  max-height: 50px;
+}
+
+/* Make navbar links uppercase */
+ul.navbar-nav li a {
+  text-transform: uppercase;
+}
+
 /**** Footer ****/
 
 .footer {
