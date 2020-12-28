@@ -7,62 +7,57 @@ permalink: /tournament/
 # 2021 Tournament
 <hr>
 
+<div class="row">
+
+<div class="col">
+
+<p>
 Welcome to the 2020-2021 Science Olympiad season! The upcoming season will be
 unique in many ways, but we're pleased to announce that we'll still be bringing
 the CMU Science Olympiad experience to you in a safe and secure manner.
+</p>
 
+<p>
 The 2021 Carnegie Mellon Science Olympiad Invitational is tentatively scheduled
-for **Saturday, January 9th, 2021**. Events will only take place on Saturday.
-However, due to the high level of interest, the tournament results will not be
-available until a few days later.
+for <strong>Saturday, January 9th, 2021</strong>. Events will only take place
+on Saturday. However, due to the high level of interest, the tournament results
+will not be available until a few days later.
+</p>
 
-We will be releasing more updates as we continue to plan; please sign up for
-our mailing list to stay up to date.
+<p>
+We will be releasing more updates as we continue to plan; please <a
+href="https://lists.andrew.cmu.edu/mailman/listinfo/cmuscioly-interest"
+target="_blank">sign up for our mailing list</a> to stay up to date.
+</p>
 
-<div class="row">
-<div class="col-md-6 col-lg-4">
-<div class="card border-info">
-  <h5 class="card-header bg-info text-white">Recent updates</h5>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">Oct 10: Registration opened</li>
-    <li class="list-group-item">Oct 11: Registration closed</li>
-    <li class="list-group-item">Nov 12: Event list posted</li>
-    <li class="list-group-item">Nov 17: Event list updated</li>
-    <li class="list-group-item">Nov 27: Detailed logistics info added</li>
-  </ul>
-</div>
-</div>
-</div>
-<br>
+<h2>Mini SO</h2>
 
-## Mini SO
+<p>
+Due to the COVID-19 pandemic, we are planning to hold a <strong>Mini SO
+tournament</strong> this year, which we plan to conduct synchronously.  For
+more information on the "Mini SO" format, please check out the <a
+href="https://www.soinc.org/play/tournaments" target="_blank">National Science
+Olympiad website</a>.
+</p>
 
-Due to the COVID-19 pandemic, we are planning to hold a **Mini SO tournament**
-this year, which we plan to conduct synchronously. In short:
+<h2>Schedule of Events</h2>
 
-1. The tournament will be run entirely remotely.
-2. Team members and coaches are **not** required to meet physically.
-3. As a result, we will not be able to run all events.
-
-As the semester progresses and we start designing the events, expect much more
-precise information regarding the tournament format. This is our first time
-hosting a tournament in this format, and we're figuring things out as we go.
-
-For more information on the "Mini SO" format, please check out the
-<a href="https://www.soinc.org/play/tournaments" target="_blank">National Science Olympiad website</a>.
-
-## Schedule of Events
-
+<p>
 Our event list has been finalized. In following with the PA Board's decisions,
 we have made the following changes:
+</p>
 
-1. We will **not run** the Digital Structures event.
-2. We will be using the CAD software **Tinkercad** for **Write It CAD It** (NOT
-   SkyCiv).
+<ol>
+  <li>We will <strong>not run</strong> the Digital Structures event.</li>
+  <li>We will be using the CAD software <strong>Tinkercad</strong> for
+    <strong>Write It CAD It</strong> (NOT SkyCiv).</li>
+</ol>
 
+<p>
 Thus, our Mini SO tournament will run 19 events total, as follows, with Write
-It CAD It being a **trial event**. Our Scilympiad page has been updated to
-reflect these changes.
+It CAD It being a <strong>trial event</strong>. Our Scilympiad page has been
+updated to reflect these changes.
+</p>
 
 <blockquote class="ml-4">
 <p>
@@ -73,63 +68,55 @@ reflect these changes.
 </p>
 </blockquote>
 
+<p>
 Wherever it makes a difference, we will be following the **Regionals rules**
 for all events.
+</p>
 
-## Tournament schedule
+<h2>Tournament schedule</h2>
 
+<p>
 All times are provided in Eastern Standard Time (UTC-05:00).
+</p>
 
-* January 9th, from 10AM &ndash; 10PM: Students take exams.
-* January 10th and 11th: Grading
-* January 12th, evening: Awards ceremony via webinar (Details TBA)
+<ul>
+  <li>January 9th, from 10AM &ndash; 10PM: Students take exams.</li>
+  <li>January 10th and 11th: Grading</li>
+  <li>January 12th, evening: Awards ceremony via webinar (Details TBA)</li>
+</ul>
 
-## Exam logistics
+<h2>FAQ</h2>
 
-* Students will have a 12-hour window, from 10AM-10PM EST on January 9th to
-  take their exams. Once one or all partners start an exam, they will have 60
-  minutes to complete it. This allows 10 additional minutes to account for
-  technical difficulties.
+<p>
+For information about release forms, exam proctoring, awards, and more, please
+visit our tournament FAQ document, which we will keep updated! Also visit our
+page on Sciilympiad, where we will be holding our tournament.
+</p>
 
-* Though there is a built-in chat feature on Scilympiad that allows partners to
-  message one another, partners are also permitted to video call (Zoom, Skype,
-  FaceTime, etc.) one another while they take the exam. Video calling is only
-  allowed between official partners! No one is allowed to meet in person, under
-  any circumstances.
+<div>
+  <a class="btn btn-danger btn-lg btn-block" role="button"
+  href="https://docs.google.com/document/d/1WFl1M2XiZ3rCtnXNvwSTVCujm2tcttwdMGQkR5tpYHM/edit?usp=sharing"
+  target="_blank">CMU SciOly 2021 Announcements and FAQs</a>
+  <a class="btn btn-primary btn-lg btn-block" role="button"
+  href="https://scilympiad.com/pa-cmuso" target="_blank">Scilympiad
+  platform</a>
+</div>
+<br>
 
-* Event proctors will be available 10AM-4PM EST on January 9th to answer
-  questions via the Scilympiad chat feature. All questions for an exam will be
-  compiled into an FAQ document linked at the beginning of the exam.
+</div>
 
-* Right now, Scilympiad doesn't support picture uploads from students, and this
-  may pose a problem for questions that require work to be shown. If needed, we
-  will provide a Google Drive link within exams for students to upload their
-  work to. Students will need a phone to take pictures of their work and upload
-  them to this Drive.
+<div class="col-md-6 col-lg-4">
+<div class="card border-info">
+  <h5 class="card-header bg-info text-white">Recent updates</h5>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Oct 10: Registration opened</li>
+    <li class="list-group-item">Oct 11: Registration closed</li>
+    <li class="list-group-item">Nov 12: Event list posted</li>
+    <li class="list-group-item">Nov 17: Event list updated</li>
+    <li class="list-group-item">Nov 27: Detailed logistics info added</li>
+    <li class="list-group-item">Dec 27: Info replaced with FAQ link</li>
+  </ul>
+</div>
+</div>
 
-* Students will need internet access to compete on Scilympiad. Should anyone
-  encounter connection issues, please email cmuscioly@gmail.com.
-
-## Other logistics
-
-* Team numbers are available on Scilympiad, and are viewable in [this
-  speadsheet](https://docs.google.com/spreadsheets/d/1ycnGE-mE1ICHgvkReIH7VtafxFqIFKvMdKxRgMKbq3w/edit?usp=sharing).
-
-* Release forms have been uploaded to Scilympiad. So far, there are only two
-  forms required this year: one for coaches/chaperones and another for parents.
-  Coaches should be instructed by Scilympiad to send the forms to the relevant
-  people, who can then electronically sign them. These forms must be submitted
-  by the day of the tournament, before students begin competing. Please note
-  that Carnegie Mellon University also requires a release form, which we will
-  obtain and notify you of in due time.
-
-* We will have a Zoom meeting open **10AM-10PM EST** to tend to general/technical
-  questions or issues.
-
-* Remember to start submitting your student/team rosters and assigning students
-  to events!
-
-* We've received a few questions on payment and would like to reiterate that
-  the tournament is free this year!
-
-* We will mail out medals and trophies to schools after the tournament.
+</div> <!-- .row -->
