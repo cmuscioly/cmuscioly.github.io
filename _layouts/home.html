@@ -1,103 +1,4 @@
 <!DOCTYPE html>
-<style>
-html, body {
-  height: 100%;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-
-#holder {
-  bottom: 0;
-  right: 0;
-  top: 0;
-  left: 0;
-  min-height: 100%;
-  position: absolute;
-}
-#content {
-  padding-bottom: 40px; /* the height of the footer */
-}
-
-
-  /*body.pace-running {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    height: 100%;
-    width: 100;
-    z-index: 1500;
-    background-color: rgba(255, 255, 255, 1);
-  }*/
-
-  .bg-enhance {
-  background-color: #f6f6f6;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: absolute;
-  overflow: hidden;
-  bottom: 0;
-  top:0;
-  left:0;
-  right:0;
-  min-width: 100%;
-  min-height: 100%;
-}
-
-.bg-enhance img {
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  transition: opacity 0.3s linear;
-}
-
-.bg-enhance img.loaded {
-  opacity: 1;
-}
-
-.img-small {
-  filter: blur(50px);
-  transform: scale(1);
-}
-
-  h1#cmu-scioly-header {
-    font-family: 'Montserrat', arial;
-    font-weight: bold;
-    text-align: center;
-    /*text-shadow: 2px 2px 0 rgba(196, 4, 5, 0.3);*/
-    margin-top: 4%;
-    color: #C40405;
-  }
-  .cmu-scioly-info {
-    font-family: 'Montserrat', Arial, sans-serif;
-    margin-top: 1em;
-    color: #C40405;
-  }
-  #event-date {
-    text-align: center;
-    font-variant: small-caps;
-    color: #C40405;
-  }
-  #register-button {
-    text-transform: uppercase;
-    margin-top: 1em;
-    background-color: #C40405;
-    margin-bottom: 50px;
-  }
-  #register-button:hover {
-    background-color: #960303;
-  }
-  #everything {
-    text-align: center;
-  }
-</style>
 <html lang="{{ page.lang | default: site.lang }}">
 
 {% include head.html %}
@@ -122,11 +23,9 @@ html, body {
 
 </div>
 
-
-
-</div>
 {% include contact.html %}
 
+</div>
 
 {% include post_body.html %}
 
