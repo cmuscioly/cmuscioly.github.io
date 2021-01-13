@@ -12,23 +12,25 @@ permalink: /tournament/
 <div class="col">
 
 <p>
-Welcome to the 2020-2021 Science Olympiad season! The upcoming season will be
-unique in many ways, but we're pleased to announce that we'll still be bringing
-the CMU Science Olympiad experience to you in a safe and secure manner.
+The 2021 Carnegie Mellon Science Olympiad Invitational took place on
+<strong>Saturday, January 9th, 2021</strong>.
 </p>
 
 <p>
-The 2021 Carnegie Mellon Science Olympiad Invitational is tentatively scheduled
-for <strong>Saturday, January 9th, 2021</strong>. Events will only take place
-on Saturday. However, due to the high level of interest, the tournament results
-will not be available until a few days later.
+We want to thank everyone for participating in our first virtual invitational!
+The awards ceremony video can be viewed at the link below starting at
+<strong>8:00pm ET</strong> today.
 </p>
 
-<p>
-We will be releasing more updates as we continue to plan; please <a
-href="https://lists.andrew.cmu.edu/mailman/listinfo/cmuscioly-interest"
-target="_blank">sign up for our mailing list</a> to stay up to date.
-</p>
+<div>
+  <a class="btn btn-success btn-lg btn-block" role="button"
+  href="https://youtu.be/FYblBgoMSDQ" target="_blank">
+    <i class="fas fa-video"></i>
+    &nbsp;Awards Ceremony
+  </a>
+</div>
+
+<br>
 
 <h2>Mini SO</h2>
 
@@ -69,8 +71,8 @@ updated to reflect these changes.
 </blockquote>
 
 <p>
-Wherever it makes a difference, we will be following the **Regionals rules**
-for all events.
+Wherever it makes a difference, we will be following the <strong>Regionals
+rules</strong> for all events.
 </p>
 
 <h2>Tournament schedule</h2>
@@ -114,7 +116,7 @@ page on Sciilympiad, where we will be holding our tournament.
     <li class="list-group-item">Nov 12: Event list posted</li>
     <li class="list-group-item">Nov 17: Event list updated</li>
     <li class="list-group-item">Nov 27: Detailed logistics info added</li>
-    <li class="list-group-item">Dec 27: Info replaced with FAQ link</li>
+    <li class="list-group-item">Dec 27: FAQ link added</li>
   </ul>
 </div>
 </div>
