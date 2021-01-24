@@ -18,8 +18,7 @@ The 2021 Carnegie Mellon Science Olympiad Invitational took place on
 
 <p>
 We want to thank everyone for participating in our first virtual invitational!
-The awards ceremony video can be viewed at the link below starting at
-<strong>8:00pm ET</strong> today.
+The awards ceremony video can be viewed at the link below.
 </p>
 
 <div>
