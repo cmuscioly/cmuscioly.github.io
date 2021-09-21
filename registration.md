@@ -13,7 +13,7 @@ invitational on our [tournament](/tournament/) page.
 Registration will open on **Friday, October 1st, 2021 at 4pm ET**
 
 * Registration will be first-come, first-served.
-* Our capacity is **25 teams**, with up to 2 teams per school. This is smaller than in the past 
+* Our capacity is **25 teams**, with up to 3 teams per school. This is smaller than in the past 
 due to COVID space restrictions.
 * Any teams registering after the first 25 teams will be placed on a waitlist.
 * Registration fees will be $100 per TEAM (not school). 
