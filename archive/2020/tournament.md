@@ -13,7 +13,7 @@ We hosted our second invitational tournament on
 
 ## Results
 
-See the [**final tournament results**](assets/results_2020.pdf).
+See the [**final tournament results**](../../assets/results_2020.pdf).
 
 The tournament's over! This year, for our second tournament, we were able
 to host 25 teams &mdash; more than twice as many as the year before!
@@ -35,11 +35,11 @@ Wherever it makes a difference, we will be following **regional rules**.
 
 Below are some PDFs with information for tournament day.
 
-* [Event schedule](assets/event_schedule.pdf) (same as below)
-* [Team numbers](assets/team_numbers.pdf) (same as below)
-* [Contact sheet](assets/contact_sheet.pdf)
-* [Location guide](assets/location_guide.pdf)
-* [Campus map](assets/Campus Map.pdf)
+* [Event schedule](../../assets/event_schedule.pdf) (same as below)
+* [Team numbers](../../assets/team_numbers.pdf) (same as below)
+* [Contact sheet](../../assets/contact_sheet.pdf)
+* [Location guide](../../assets/location_guide.pdf)
+* [Campus map](../../assets/Campus Map.pdf)
 
 ## Accomodations
 
