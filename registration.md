@@ -7,24 +7,20 @@ permalink: /registration/
 # Registration
 <hr>
 
-_Our 2021 tournament is coming!_  Read about the format of our 2021
+_Our 2022 tournament is coming!_  Read about the details of our 2022
 invitational on our [tournament](/tournament/) page.
 
-We are using the <strong><a href="https://scilympiad.com/pa-cmuso"
-target="_blank">Scilympiad platform</a></strong> for team registration.
-Please also make sure you are signed up for the mailing list below.
+Registration will open on **Friday, October 1st, 2021 at 4pm ET**
 
-As of October 11, 2020, registration is officially **closed**, as we have
-already met and far exceeded our initial team cap of 25 teams.  Unfortunately,
-we were unable to complete registration for every team that logged into
-Scilympiad, and we apologize for any inconvenience caused by the registration
-process.
+* Registration will be first-come, first-served.
+* Our capacity is **25 teams**, with up to 2 teams per school. This is smaller than in the past 
+due to COVID space restrictions.
+* Any teams registering after the first 25 teams will be placed on a waitlist.
+* Registration fees will be $100 per TEAM (not school). 
+* In order to allow more teams to be able to participate, we will be releasing a financial need
+based scholarship form soon to waive the registation fees for schools who qualify.
 
-We are extremely grateful for the immense interest in our tournament from teams
-across the country. If you were not able to register this year, we sincerely
-appreciate your interest and hope to be able to host you in future years.
-
-As always, please feel free to reach out with questions or conerns at
+As always, please feel free to reach out with questions or concerns at
 <a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a>.
 
 <!--

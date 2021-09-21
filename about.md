@@ -12,7 +12,7 @@ CMU Science Olympiad is a student-run organization that seeks to inspire interes
 # History
 <hr>
 
-The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated members who work together to prepare for each year's event. The organization hosted its first tournament for twelve teams on January 12th, 2019, and a second tournament on January 11th, 2020 with more than twice as many teams in attendance. For more information on past tournaments, visit our [archive](/archive/).
+The CMU Science Olympiad student organization was founded in late 2017 by Sarah Yu, Chris Fulton, Revanth Gumpu, and Uday Shankar. Since then, the organization has amassed a group of highly dedicated members who work together to prepare for each year's event. The organization hosted its first tournament for twelve teams on January 12th, 2019, a second tournament on January 11th, 2020 with more than twice as many teams in attendance, and a virtual tournament on January 9th, 2021 with double the number of teams again. For more information on past tournaments, visit our [archive](/archive/).
 
 # Tournament Philosophy
 <hr>
@@ -37,16 +37,8 @@ day will be streamlined.
     <div class="list-group" style="margin-bottom: 20px;">
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Sarah Yu </strong></h4>
-          <span class="text-muted"> Biological Sciences 2021 </span>
-        </div>
-        <span> President </span>
-      </div>
-
-      <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Riya Bhattacharya </strong></h4>
-          <span class="text-muted"> Chemistry 2021 </span>
+          <h4><strong> Niki Murikinati </strong></h4>
+          <span class="text-muted"> Computer Science 2022 </span>
         </div>
         <span> President </span>
       </div>
@@ -56,34 +48,33 @@ day will be streamlined.
           <h4><strong> Erika Kim </strong></h4>
           <span class="text-muted"> Chemistry 2022 </span>
         </div>
-        <span> Vice President </span>
+        <span> President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Niki Murikinati </strong></h4>
-          <span class="text-muted"> Computer Science 2022 </span>
+          <h4><strong> Erin Lee </strong></h4>
+          <span class="text-muted"> Science and Arts 2023 </span>
         </div>
         <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Steve Wong </strong></h4>
-          <span class="text-muted"> Mathematics 2022 </span>
+          <h4><strong> William Yan </strong></h4>
+          <span class="text-muted"> ECE 2023 </span>
+        </div>
+        <span> Vice President </span>
+      </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4><strong> Yerim Lee </strong></h4>
+          <span class="text-muted"> Chemical and Biomedical Engineering 2023 </span>
         </div>
         <span> Treasurer </span>
       </div>
-
-      <div class="list-group-item flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Kevin Geng </strong></h4>
-          <span class="text-muted"> Computer Science 2021 </span>
-        </div>
-        <span> Webmaster </span>
-      </div>
     </div>
-
   </div>
 
   <div class="col-md-6">
@@ -92,39 +83,39 @@ day will be streamlined.
         <h4><strong> John Quinlan </strong></h4>
         <span class="text-muted"> Science and Arts 2023 </span>
       </div>
-      <span> Event Chair: ED, Sounds, WIDI </span>
+      <span> Event Chair: Dynamic Planet, Remote Sensing, Rocks and Minerals, WIDI </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Wonhee Han </strong></h4>
-        <span class="text-muted"> Science and Humanities Scholars 2021 </span>
+        <h4><strong> Justin Croyle </strong></h4>
+        <span class="text-muted"> Chemical Engineering 2024 </span>
       </div>
-      <span> Event Chair: Anatomy, Disease, Water </span>
+      <span> Event Chair: Chem Lab, ED, Forensics </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Uday Shankur </strong></h4>
-        <span class="text-muted"> Computer Science 2021 </span>
+        <h4><strong> Justin Peng </strong></h4>
+        <span class="text-muted"> Civil and Environmental Engineering 2024 </span>
       </div>
-      <span> Event Chair: Circuit, Detector, Geo Mapping, Protein </span>
+      <span> Event Chair: Detector Building, Gravity Vehicle, Trajectory </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Jolie Miller </strong></h4>
-        <span class="text-muted"> Chemistry 2021 </span>
+        <h4><strong> Raehash Shah </strong></h4>
+        <span class="text-muted"> Computational Biology 2024 </span>
       </div>
-      <span> Event Chair: Genes, Forensics, Ornithology </span>
+      <span> Event Chair: Cell Bio, Environmental Chem, Ornithology </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> William Yan </strong></h4>
-        <span class="text-muted"> ECE 2023 </span>
+        <h4><strong> Avi Gupta </strong></h4>
+        <span class="text-muted"> Chemical and Biomedical Engineering 2024 </span>
       </div>
-      <span> Event Chair: Astro, Chem Lab, Dynamic </span>
+      <span> Event Chair: Bridges, Ping Pong Parachute, Wright Stuff </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
@@ -132,15 +123,15 @@ day will be streamlined.
         <h4><strong> Yunsong Liu </strong></h4>
         <span class="text-muted"> Computer Science 2023 </span>
       </div>
-      <span> Event Chair: Code, Fossils, Machines </span>
+      <span> Event Chair: Codebusters, Disease Detectives, Its About Time, Wifi Lab </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Chris Fulton </strong></h4>
-        <span class="text-muted"> ECE 2020 </span>
+        <h4><strong> Harry Ren </strong></h4>
+        <span class="text-muted"> Statistics and Data Science 2024 </span>
       </div>
-      <span> Event Chair: Boom, Gravity, PPP, Wright Stuff </span>
+      <span> Event Chair: Anatomy, Astro, Green Gen </span>
     </div>
 
   </div>
