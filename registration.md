@@ -12,6 +12,8 @@ invitational on our [tournament](/tournament/) page.
 
 Registration will open on **Friday, October 1st, 2021 at 4pm ET**
 
+<a href="https://forms.gle/fzWHeDaDm9rqDRW4A"> Registration Form</a>
+
 * Registration will be first-come, first-served.
 * Our capacity is **25 teams**, with up to 3 teams per school. This is smaller than in the past 
 due to COVID space restrictions.
