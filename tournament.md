@@ -26,7 +26,7 @@ subject to change based on COVID case rates closer to the date.
 <h2>Registration</h2>
 
 <p>
-Registration will open on Friday, October 1st, 2021 at 4pm ET. Due to capacity 
+Registration is now open! Please see the <a href="/registration">registration</a> page for more details. Due to capacity 
 restrictions on campus, we will only be allowing 25 teams to register with
 a 3 team cap per school. Registration fees will be $100 per TEAM (not school). 
 </p>

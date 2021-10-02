@@ -10,7 +10,7 @@ permalink: /registration/
 _Our 2022 tournament is coming!_  Read about the details of our 2022
 invitational on our [tournament](/tournament/) page.
 
-Registration will open on **Friday, October 1st, 2021 at 4pm ET**
+Registration is now open! We still have open slots so please register using the form below. 
 
 <a href="https://forms.gle/fzWHeDaDm9rqDRW4A"> Registration Form</a>
 
