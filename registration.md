@@ -14,6 +14,8 @@ Registration is now open! We still have open slots so please register using the 
 
 <a href="https://forms.gle/fzWHeDaDm9rqDRW4A"> Registration Form</a>
 
+You can check your registration status <a href="https://docs.google.com/spreadsheets/d/1aklP6_qMQsP9n1TwHgM7cCAnjCaTvSyLst17ul4FS6w/edit?usp=sharing">here</a>.
+
 * Registration will be first-come, first-served.
 * Our capacity is **25 teams**, with up to 3 teams per school. This is smaller than in the past 
 due to COVID space restrictions.
@@ -21,6 +23,15 @@ due to COVID space restrictions.
 * Registration fees will be $100 per TEAM (not school). 
 * In order to allow more teams to be able to participate, we will be releasing a financial need
 based scholarship form soon to waive the registation fees for schools who qualify.
+* We know that there is a lot of uncertainty with COVID, and that January is far away. So, we 
+will be allowing to teams to register and withdraw until December 1st, 2021. If 
+your team no longer feels comfortable with attending an in person invitational, 
+then please email us at <a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a> to update your registration status. 
+Registration fees will be refunded in the case of withdrawal.
+* If we feel an in-person tournament is no longer feasible, then we will switch to 
+a virtual tournament on Scilympiad, and registration fees will also be lowered 
+accordingly. Teams will also be given the option to withdraw if we decide to 
+switch to virtual and they no longer want to participate.  
 
 As always, please feel free to reach out with questions or concerns at
 <a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a>.
