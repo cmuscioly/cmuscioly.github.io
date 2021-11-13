@@ -65,5 +65,30 @@ Currently we have no plan for trial events, but this may be subject to change.
 Where it makes difference, we will be following <strong> Regionals rules </strong> for all events.
 </p>
 
-
 </div> <!-- .row -->
+</div> <!-- .col -->
+
+# Accommodations
+<hr>
+
+## Directions
+
+CMU campus is located at 5000 Forbes Avenue, Pittsburgh, PA 15213. Click <a href="https://www.google.com/maps?saddr=My+Location&daddr=Carnegie+Mellon+University" target="_blank">here</a> for directions.
+
+## Hotels
+
+Carnegie Mellon is located in the middle of a few different neighborhoods with hotels that are a convenient distance from the university. Visit <a href="https://www.cmu.edu/parents/events/travel-and-hotels.html" target="_blank">this link</a> for comprehensive information on options for your stay, including which hotels may have special group rates and shuttle service to campus!
+
+## Food
+
+We are looking into providing a catering option for teams which more details will be released on soon.
+If you are interested in other food options though, below is a comprehensive list. 
+
+Since the tournament takes place on a weekend during winter break, not many on-campus locations are open. See <a href="https://apps.studentaffairs.cmu.edu/dining/conceptinfo/?page=listConceptsGrid&startDate=01%2F12%2F2019&searchLength=1&Search=&Locations=21&Locations=2&Locations=18&Locations=5&Locations=1&Locations=22&Locations=25&Locations=24&Locations=23&Locations=19&Locations=20&Locations=15&Locations=27&Locations=26&Locations=28&Locations=17" target="_blank">here</a> for a full list of open locations and their hours.
+
+Some great off campus food options include:
+
+- **Craig Street** (5 minute walk along Forbes): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crepes Parisienne, Ali Baba Restaurant, and Yuva Indian Kitchen.
+- **Oakland** (10-15 minute walk along Forbes): Noodles and Company, Panera Bread, Fuku Tea, McDonalds, Starbucks, Dunkin Donuts, and Primanti Brothers.
+- **Squirrel Hill** (10 minute inward-bound bus ride on 61A, B, C, or D):  Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, and more.
+
