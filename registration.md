@@ -16,6 +16,8 @@ Registration is now open! We still have open slots so please register using the 
 
 You can check your registration status <a href="https://docs.google.com/spreadsheets/d/1aklP6_qMQsP9n1TwHgM7cCAnjCaTvSyLst17ul4FS6w/edit?usp=sharing">here</a>.
 
+The scholarship form is available <a href="https://forms.gle/7ZnYcxLkTaHXogz28">here</a>.
+
 * Registration will be first-come, first-served.
 * Our capacity is **25 teams**, with up to 3 teams per school. This is smaller than in the past 
 due to COVID space restrictions.

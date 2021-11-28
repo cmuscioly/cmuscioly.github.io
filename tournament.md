@@ -64,9 +64,12 @@ We will be running all 23 events from the official Division C Science Olympiad e
 Currently we have no plan for trial events, but this may be subject to change. 
 Where it makes difference, we will be following <strong> Regionals rules </strong> for all events.
 </p>
+<p>
+A preliminary version of the schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change. Event locations will be posted soon. 
+</p>
 
-</div> <!-- .row -->
 </div> <!-- .col -->
+</div> <!-- .row -->
 
 # Accommodations
 <hr>
