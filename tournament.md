@@ -48,13 +48,14 @@ switch to virtual and they no longer want to participate.
 <p>
 In order to allow more teams to be able to participate, we will be releasing a financial need
 based scholarship form soon to waive the registation fees for schools who qualify.
+The scholarship form is available <a href="https://forms.gle/7ZnYcxLkTaHXogz28">here</a>.
 </p>
 
 <h2>COVID Protocols</h2>
 <p>
 We will be following all of CMU's COVID mitigation protocols. As of now, CMU has a mandatory
 mask mandate on campus, which will also be enforced at the invitiational. Additionally we will be following the
-restricted room capacity requirements in order reduce crowded gatherings. All students, coaches, and chaperones are also required by current CMU policy to either by vaccinated or show proof of a negative COVID test that was from 72 hours prior to arriving on campus. These regulations are subject to change and can be found on the <a href="https://www.cmu.edu/coronavirus/faqs/visitors.html">CMU COVID policy website</a> as well.
+restricted room capacity requirements in order reduce crowded gatherings. All students, coaches, and chaperones are also required by current CMU policy to either by vaccinated or have a negative COVID test that was from 72 hours prior to arriving on campus. These regulations are subject to change and can be found on the <a href="https://www.cmu.edu/coronavirus/faqs/visitors.html">CMU COVID policy website</a> as well.
 </p>
 
 <h2>Schedule of Events</h2>
