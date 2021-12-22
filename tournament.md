@@ -17,8 +17,22 @@ The 2022 Carnegie Mellon Science Olympiad Invitational will take place on
 </p>
 
 <p>
-We are tentively planning for an in-person invitational, but plans may be
-subject to change based on COVID case rates closer to the date. 
+Out of an abundance of caution, we decided to offer a hybrid format for the upcoming tournament. Teams will now compete in a satellite format but are allowed to compete on the CMU campus. 
+</p>
+<p>
+We understand your growing concerns about COVID, and we wanted to offer a chance to take part in our invitational remotely. To incentivize competing in-person, we will be providing food, proctors, testing facilities for builds, and unofficial CMU tours. 
+</p>
+<p>
+All exam events (whether the team is in-person or virtual will be conducted via Scilympiad. This is to ensure fairness with a common platform for all teams. We will send out the Scilympiad info once teams register via the Google form below. 
+</p>
+<p>
+For lab events, they will no longer contain a lab portion and will be exam only. Events such as Write It Do It and Experimental Design will provide a list of common everyday items to coaches to have ready before the tournament. We are trusting that coaches will not provide this list to students beforehand to maintain integrity. 
+</p>
+<p>
+For build events, we will be doing a satellite version. You will need to record a video and then submit the recording of their testing along with logs and anything else that is needed. To prove it was recorded the same day, we will provide you with a word to display in the video on the day of the tournament. Remote teams are to submit their build tests via recording. In-person teams can test in-person using our facilities and materials.  
+</p>
+<p>
+Hope to see you all there, whether it be remotely or on campus! Please let us know if you have any questions or concerns since this format is new for us as well!
 </p>
 
 <br>
@@ -26,23 +40,17 @@ subject to change based on COVID case rates closer to the date.
 <h2>Registration</h2>
 
 <p>
-Registration is now open! Please see the <a href="/registration">registration</a> page for more details. Due to capacity 
-restrictions on campus, we will only be allowing 25 teams to register with
-a 3 team cap per school. Registration fees will be $100 per TEAM (not school). 
+Registration will open on 12/23 3PM and close on 12/30 at 9pm, or when we hit 50 teams. Any teams registering after the first 50 will be waitlisted. We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot.  Please see the <a href="/registration">registration</a> page for more details. We will only be allowing 50 teams to register with a 3 team cap per school.
+</p>
+<p>
+There will also be changes in the registration fees. The registration fee per team to compete will be $25 for virtually, and $50 for in-person. Any format that has already paid will receive a refund based on the format that they choose. If you have already registered and would like to withdraw then we will fully refund your payment. 
 </p>
 
 <p> 
 We know that there is a lot of uncertainty with COVID, and that January is far away. So, we 
-will be allowing to teams to register and withdraw until December 1st, 2021. If 
+will be allowing to teams to change their format until December 31st, 2021. If 
 your team no longer feels comfortable with attending an in person invitational, 
 then please email us at <a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a> to update your registration status. 
-Registration fees will be refunded in the case of withdrawal.
-</p>
-<p>
-If we feel an in-person tournament is no longer feasible, then we will switch to 
-a virtual tournament on Scilympiad, and registration fees will also be lowered 
-accordingly. Teams will also be given the option to withdraw if we decide to 
-switch to virtual and they no longer want to participate.  
 </p>
 
 <p>
@@ -64,9 +72,10 @@ restricted room capacity requirements in order reduce crowded gatherings. All st
 We will be running all 23 events from the official Division C Science Olympiad event. 
 Currently we have no plan for trial events, but this may be subject to change. 
 Where it makes difference, we will be following <strong> Regionals rules </strong> for all events.
+All events will be run in a satellite format. 
 </p>
 <p>
-A preliminary version of the schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change. Event locations will be posted soon. 
+A preliminary version of the schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change. Event locations (for in-person teams) will be posted soon. 
 </p>
 
 </div> <!-- .col -->
