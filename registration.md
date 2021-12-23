@@ -10,7 +10,7 @@ permalink: /registration/
 _Our 2022 tournament is coming!_  Read about the details of our 2022
 invitational on our [tournament](/tournament/) page.
 
-Registration will open on 12/23 3PM and close on 12/30 at 9pm!
+Registration is now open and will close on 12/30 at 9pm!
 
 <a href="https://forms.gle/Bv5VTwnPpfhbR6Gu8"> Registration Form</a>
 
