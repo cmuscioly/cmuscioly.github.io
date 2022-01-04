@@ -12,7 +12,7 @@ invitational on our [tournament](/tournament/) page.
 
 Registration is now open and will close on 01/05 at 9pm!
 
-<a href="https://forms.gle/Bv5VTwnPpfhbR6Gu8"> Registration Form</a>
+<a href="https://forms.gle/6kfiK5srjumdUxLN9"> Registration Form</a>
 
 You can check your registration status <a href="https://docs.google.com/spreadsheets/d/15bIz60tJR_OBUu5w7LizrSAMa792L9y-bXhHWA8fKm4/edit?usp=sharing">here</a>.
 
