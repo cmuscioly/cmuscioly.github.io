@@ -40,7 +40,7 @@ Hope to see you all there, whether it be remotely or on campus! Please let us kn
 <h2>Registration</h2>
 
 <p>
-Registration is now open and will close on 01/05 at 9pm, or when we hit 50 teams. Any teams registering after the first 50 will be waitlisted. We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot.  Please see the <a href="/registration">registration</a> page for more details. We will only be allowing 50 teams to register with a 3 team cap per school.
+Registration is now open and will close on 01/06 at 9pm, or when we hit 50 teams. Any teams registering after the first 50 will be waitlisted. We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot.  Please see the <a href="/registration">registration</a> page for more details. We will only be allowing 50 teams to register with a 3 team cap per school.
 </p>
 <p>
 There will also be changes in the registration fees. The registration fee per team to compete will be $25 for virtually, and $50 for in-person. Any format that has already paid will receive a refund based on the format that they choose. If you have already registered and would like to withdraw then we will fully refund your payment. 
