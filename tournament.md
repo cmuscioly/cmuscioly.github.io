@@ -29,8 +29,17 @@ For lab events, they will no longer contain a lab portion and will be exam only.
 For build events, we will be doing a satellite version. Builds will be done via live Zoom meeting. Teams will go one at a time and demosrate their build testing on the meeting. Any exam events with a build portion like It's About Time will have a scheduled exam portion and self-scheduled live Zoom build portion. 
 </p>
 <p>
-Please let us know if you have any questions or concerns!
+Please let us know if you have any questions or concerns! We also have an announcements and FAQ document available to answer most of your questions:
 </p>
+<div>
+  <a class="btn btn-danger btn-lg btn-block" role="button"
+  href="https://docs.google.com/document/d/1HDpqw4dM-9Vttr2v8PwSG22DO3suhfzyyY6weL8NJmU/edit?usp=sharing"
+  target="_blank">CMU SciOly 2021 Announcements and FAQs</a>
+  <a class="btn btn-primary btn-lg btn-block" role="button"
+  href="https://scilympiad.com/pa-cmuso" target="_blank">Scilympiad
+  platform</a>
+</div>
+<br>
 
 <br>
 
