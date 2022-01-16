@@ -12,22 +12,21 @@ permalink: /tournament/
 <div class="col">
 
 <p>
-The 2022 Carnegie Mellon Science Olympiad Invitational will take place on
-<strong>Saturday, January 15th, 2022</strong>.
+The 2022 Carnegie Mellon Science Olympiad Invitational took place on <b>Saturday, January 15th, 2022</b>.
 </p>
+<p>
+We want to thank everyone who took place in our virtual invitational!
+</p>
+<p>
+The results can be seen at the link below.
+</p>
+<div>
+  <a class="btn btn-primary btn-lg btn-block" role="button"
+  href="https://scilympiad.com/pa-cmuso/Info/Results/0b2a629c-c7b2-49ed-9415-6aa160397fff"
+  target="_blank">Tournament Results</a>
+</div>
+<br>
 
-<p>
-Out of an abundance of caution, we decided to offer a hybrid format for the upcoming tournament. Teams will now compete in a 100% remote satellite format. 
-</p>
-<p>
-All exam events will be conducted via Scilympiad. We will send out the Scilympiad info once teams register via the Google form below. 
-</p>
-<p>
-For lab events, they will no longer contain a lab portion and will be exam only. Events such as Write It Do It and Experimental Design will provide a list of common everyday items to coaches to have ready before the tournament. We are trusting that coaches will not provide this list to students beforehand to maintain integrity. 
-</p>
-<p>
-For build events, we will be doing a satellite version. Builds will be done via live Zoom meeting. Teams will go one at a time and demosrate their build testing on the meeting. Any exam events with a build portion like It's About Time will have a scheduled exam portion and self-scheduled live Zoom build portion. 
-</p>
 <p>
 Please let us know if you have any questions or concerns! We also have an announcements and FAQ document available to answer most of your questions:
 </p>
@@ -43,6 +42,14 @@ Please let us know if you have any questions or concerns! We also have an announ
 
 <br>
 
+<h2> Tests </h2>
+<p> 
+Tests and answer keys are currently available to teams who competed in the invitational on Scilympiad.
+</p>
+<p>
+Tests will become publically available in June.  
+</p>
+
 <h2>Schedule of Events</h2>
 
 <p>
@@ -52,7 +59,7 @@ Where it makes difference, we will be following <strong> Regionals rules </stron
 All events will be run in a satellite format. 
 </p>
 <p>
-A preliminary version of the schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change. Event locations (for in-person teams) will be posted soon. 
+The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
 </p>
 
 </div> <!-- .col -->

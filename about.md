@@ -141,7 +141,7 @@ day will be streamlined.
 <hr>
 
 <p>
-We'd like to thank our first corporate sponsor for the 2020 tournament, General Motors, for providing the support needed to make this invitational a reality.
+We'd like to thank our first corporate sponsor for the 2020 and 2021 tournament, General Motors, for providing the support needed to make this invitational a reality.
 </p>
 
 <p style="text-align: center;">

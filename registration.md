@@ -7,25 +7,8 @@ permalink: /registration/
 # Registration
 <hr>
 
-_Our 2022 tournament is coming!_  Read about the details of our 2022
+_Our 2022 tournament is over!_  Read about the details of our 2022
 invitational on our [tournament](/tournament/) page.
-
-Registration is now closed.
-
-You can check your registration status <a href="https://docs.google.com/spreadsheets/d/15bIz60tJR_OBUu5w7LizrSAMa792L9y-bXhHWA8fKm4/edit?usp=sharing">here</a>.
-
-Once you are confirmed to be registered you will be given a priority code you can use to register and set up your teams on our <a href="https://scilympiad.com/pa-cmuso">Scilympiad website</a>. 
-
-The scholarship form is available <a href="https://forms.gle/7ZnYcxLkTaHXogz28">here</a>.
-
-* Registration will be first-come, first-served.
-* Our capacity is **50 teams**, with up to 3 teams per school.
-* Any teams registering after the first 50 teams will be placed on a waitlist.
-* Registration fees will be $25 per TEAM (not school). 
-*  We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot. 
-* Any team that has already paid will receive a refund based on the format that they choose. If you have already registered and would like to withdraw then we will fully refund your payment. 
-* In order to allow more teams to be able to participate, we will be releasing a financial need
-based scholarship form to waive the registation fees for schools who qualify.
 
 As always, please feel free to reach out with questions or concerns at
 <a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a>.
