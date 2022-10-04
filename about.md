@@ -37,42 +37,51 @@ day will be streamlined.
     <div class="list-group" style="margin-bottom: 20px;">
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Niki Murikinati </strong></h4>
-          <span class="text-muted"> Computer Science 2022 </span>
+          <h4><strong> Justin Peng </strong></h4>
+          <span class="text-muted"> Civil Engineering 2024 </span>
         </div>
         <span> President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Erika Kim </strong></h4>
-          <span class="text-muted"> Chemistry 2022 </span>
+          <h4><strong> Avi Gupta </strong></h4>
+          <span class="text-muted"> Chemistry & Biomedical Engineering 2024 </span>
         </div>
         <span> President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Erin Lee </strong></h4>
-          <span class="text-muted"> Science and Arts 2023 </span>
+          <h4><strong> Daniel Ye </strong></h4>
+          <span class="text-muted"> Chemistry 2025 </span>
         </div>
         <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> William Yan </strong></h4>
-          <span class="text-muted"> ECE 2023 </span>
+          <h4><strong> Jim Hwang </strong></h4>
+          <span class="text-muted"> Chemistry 2024 </span>
         </div>
         <span> Vice President </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Yerim Lee </strong></h4>
-          <span class="text-muted"> Chemical and Biomedical Engineering 2023 </span>
+          <h4><strong> Udithi Kothapalli </strong></h4>
+          <span class="text-muted"> Chemical Engineering 2023 </span>
         </div>
         <span> Treasurer </span>
+      </div>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4><strong> Clarise Liu </strong></h4>
+          <span class="text-muted"> Computer Science 2025 </span>
+        </div>
+        <span> Webmaster </span>
       </div>
     </div>
   </div>
@@ -83,7 +92,23 @@ day will be streamlined.
         <h4><strong> John Quinlan </strong></h4>
         <span class="text-muted"> Science and Arts 2023 </span>
       </div>
-      <span> Event Chair: Dynamic Planet, Remote Sensing, Rocks and Minerals, WIDI </span>
+      <span> Event Chair: Rock and Minerals, Chem Lab, Experimental Design, Write It Do It </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Jacob Weiner </strong></h4>
+        <span class="text-muted"> Computer Seince & Math 2025 </span>
+      </div>
+      <span> Event Chair: Cell Biology, Forestry, Remote Sensing </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Harry Ren </strong></h4>
+        <span class="text-muted"> Statistics & Data Science 2024 </span>
+      </div>
+      <span> Event Chair: Anatomy and Physiology, Environmental Chemistry, Green Generation </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
@@ -91,47 +116,31 @@ day will be streamlined.
         <h4><strong> Justin Croyle </strong></h4>
         <span class="text-muted"> Chemical Engineering 2024 </span>
       </div>
-      <span> Event Chair: Chem Lab, ED, Forensics </span>
+      <span> Event Chair: Flight, Bridges, Scrambler, Trajectory </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Justin Peng </strong></h4>
-        <span class="text-muted"> Civil and Environmental Engineering 2024 </span>
+        <h4><strong> Marian Qian </strong></h4>
+        <span class="text-muted"> Artificial Intelligence 2025 </span>
       </div>
-      <span> Event Chair: Detector Building, Gravity Vehicle, Trajectory </span>
+      <span> Event Chair: Astronomy, It's About Time, Fermi Questions </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Raehash Shah </strong></h4>
-        <span class="text-muted"> Computational Biology 2024 </span>
+        <h4><strong> Emily Guo</strong></h4>
+        <span class="text-muted"> Computer Science 2025 </span>
       </div>
-      <span> Event Chair: Cell Bio, Environmental Chem, Ornithology </span>
+      <span> Event Chair: Forensics, Codebusters, Detector Building </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Avi Gupta </strong></h4>
-        <span class="text-muted"> Chemical and Biomedical Engineering 2024 </span>
+        <h4><strong> Dhriti Posa </strong></h4>
+        <span class="text-muted"> Chemical and Biomedical Engineering 2025 </span>
       </div>
-      <span> Event Chair: Bridges, Ping Pong Parachute, Wright Stuff </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Yunsong Liu </strong></h4>
-        <span class="text-muted"> Computer Science 2023 </span>
-      </div>
-      <span> Event Chair: Codebusters, Disease Detectives, Its About Time, Wifi Lab </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Harry Ren </strong></h4>
-        <span class="text-muted"> Statistics and Data Science 2024 </span>
-      </div>
-      <span> Event Chair: Anatomy, Astro, Green Gen </span>
+      <span> Event Chair: Disease Detectives, Dynamic Planet, Wifi Lab </span>
     </div>
 
   </div>
