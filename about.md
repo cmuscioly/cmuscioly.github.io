@@ -140,13 +140,13 @@ day will be streamlined.
 # Our Supporters
 <hr>
 
-<p>
+<!-- <p>
 We'd like to thank our first corporate sponsor for the 2020 and 2021 tournament, General Motors, for providing the support needed to make this invitational a reality.
 </p>
 
 <p style="text-align: center;">
 <img src="/assets/GM_logo_512.jpg" width="192" height="192">
-</p>
+</p> -->
 
 <p>
 We'd also like to thank our sponsors at CMU: the Carnegie Mellon Student Government, the Leonard Gelfand Center for Service Learning and Outreach,
