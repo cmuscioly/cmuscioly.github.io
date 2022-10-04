@@ -37,7 +37,7 @@ day will be streamlined.
     <div class="list-group" style="margin-bottom: 20px;">
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Niki Murikinati </strong></h4>
+          <h4><strong> Justin Peng </strong></h4>
           <span class="text-muted"> Computer Science 2022 </span>
         </div>
         <span> President </span>
@@ -74,6 +74,15 @@ day will be streamlined.
         </div>
         <span> Treasurer </span>
       </div>
+
+      <div class="list-group-item flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+          <h4><strong> Yerim Lee </strong></h4>
+          <span class="text-muted"> Chemical and Biomedical Engineering 2023 </span>
+        </div>
+        <span> Treasurer </span>
+      </div>
+      
     </div>
   </div>
 
