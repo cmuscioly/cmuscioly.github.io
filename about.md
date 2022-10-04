@@ -42,7 +42,6 @@ day will be streamlined.
         </div>
         <span> President </span>
       </div>
-
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
           <h4><strong> Avi Gupta </strong></h4>
@@ -50,7 +49,6 @@ day will be streamlined.
         </div>
         <span> President </span>
       </div>
-
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
           <h4><strong> Daniel Ye </strong></h4>
@@ -58,7 +56,6 @@ day will be streamlined.
         </div>
         <span> Vice President </span>
       </div>
-
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
           <h4><strong> Jim Hwang </strong></h4>
@@ -66,7 +63,6 @@ day will be streamlined.
         </div>
         <span> Vice President </span>
       </div>
-
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
           <h4><strong> Udithi Kothapalli </strong></h4>
@@ -75,7 +71,6 @@ day will be streamlined.
         <span> Treasurer </span>
       </div>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
           <h4><strong> Clarise Liu </strong></h4>
@@ -92,9 +87,8 @@ day will be streamlined.
         <h4><strong> John Quinlan </strong></h4>
         <span class="text-muted"> Science and Arts 2023 </span>
       </div>
-      <span> Event Chair: Rock and Minerals, Chem Lab, Experimental Design, Write It Do It </span>
+      <span> Event Chair: Rock and Minerals, Chem Lab, Experimental Design, WIDI </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Jacob Weiner </strong></h4>
@@ -102,7 +96,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Cell Biology, Forestry, Remote Sensing </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Harry Ren </strong></h4>
@@ -110,7 +103,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Anatomy and Physiology, Environmental Chemistry, Green Generation </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Justin Croyle </strong></h4>
@@ -118,7 +110,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Flight, Bridges, Scrambler, Trajectory </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Marian Qian </strong></h4>
@@ -126,7 +117,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Astronomy, It's About Time, Fermi Questions </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Emily Guo</strong></h4>
@@ -134,7 +124,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Forensics, Codebusters, Detector Building </span>
     </div>
-
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Dhriti Posa </strong></h4>
@@ -142,7 +131,6 @@ day will be streamlined.
       </div>
       <span> Event Chair: Disease Detectives, Dynamic Planet, Wifi Lab </span>
     </div>
-
   </div>
 </div>
 
