@@ -45,8 +45,8 @@ day will be streamlined.
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Erika Kim </strong></h4>
-          <span class="text-muted"> Chemistry 2022 </span>
+          <h4><strong> Justin Peng </strong></h4>
+          <span class="text-muted"> Civil Engineering 2024 </span>
         </div>
         <span> President </span>
       </div>
