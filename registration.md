@@ -7,22 +7,17 @@ permalink: /registration/
 # Registration
 <hr>
 
-_Our 2022 tournament is over!_  Read about the details of our 2022
-invitational on our [tournament](/tournament/) page.
+Registration opens on 10/05 at 3 pm EST and close on 12/19 at 9pm.
 
-As always, please feel free to reach out with questions or concerns at
-<a href="mailto:cmuscioly@gmail.com">cmuscioly@gmail.com</a>.
+- Registration will be first-come, first-served.
+- This year’s competition is strictly in-person; we are unfortunately not accommodating any virtual teams.
+- Our capacity is 35 teams, with up to 3 teams per school.
+- Any teams registering after the first 35 teams will be placed on a waitlist.
+- Registration fees will be $50 per TEAM (not school).
+- We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot.
+- In order to allow more teams to be able to participate, we will be releasing a financial need based scholarship form to waive the registration fees for schools who qualify.
 
-<!--
-Registration will open on **October 10, 2020 at 3pm EDT** (<a
-href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20201010T190000Z%2F20201010T190000Z&text=Team%20registration%20opens%20for%20CMU%20Science%20Olympiad%202021&location=https%3A%2F%2Fcmuscioly.org%2F"
-target="_blank">Google Calendar</a>).
-
-* Registration will be first-come, first-served.
-* Our capacity is **25 teams**, with up to 3 teams per school.
-* Any teams registering after the first 25 teams will be placed on a waitlist.
-* The registration fee will be waived this year.
--->
+As always, please feel free to reach out with questions or concerns at cmuscioly@gmail.com.
 
 
 # Mailing list
