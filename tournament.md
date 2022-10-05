@@ -6,11 +6,11 @@ permalink: /tournament/
 
 # 2023 Tournament
 <hr>
-*Last updated: 10-04-2022*
+*Last updated: 10-05-2022*
 
 
 
-We will host our second invitational tournament on actual <b>January 21st, 2023</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration page](https://github.com/cmuscioly/cmuscioly.github.io/blob/b17788e5ae4e5e3c03e37a9ba8fddc24c8b5bc38/registration) for more information.
+We will host our second invitational tournament on actual <b>January 21st, 2023</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration](/registration/) page for more information.
 
 
 <!-- RESULTS BUTTON <div>
@@ -35,7 +35,7 @@ We plan to run all 23 of the official 2023 Division C events. We will not be run
 
 ## Directions 
 
-Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. Click [here](https://www.google.com/maps?saddr=My+Location&daddr=Carnegie+Mellon+University) for directions.
+Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. Click [here](https://www.google.com/maps/dir//5000+Forbes+Ave,+Pittsburgh,+PA+15213/@40.4426822,-79.9479087,17z/data=!4m17!1m7!3m6!1s0x8834f331f6a625ff:0xa8563ce86d5d16fc!2s5000+Forbes+Ave,+Pittsburgh,+PA+15213!3b1!8m2!3d40.4426781!4d-79.9457254!4m8!1m0!1m5!1m1!1s0x8834f331f6a625ff:0xa8563ce86d5d16fc!2m2!1d-79.9457254!2d40.4426781!3e2) for directions.
 You can find several versions of the campus map on [CMU's website](https://www.cmu.edu/visit/maps-parking-transportation.html) to help you get around campus.
 
 
