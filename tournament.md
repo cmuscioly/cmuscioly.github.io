@@ -81,7 +81,7 @@ Note that on-campus food is historically pricier than off-campus restaurants. So
 
 
 <p>
-The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1bV0PSX7svyK5UF2TvsRwgtxY0HMLlVw5np0gDxfFBO4/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
+The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1BzOXsfQAb9bZjG1Yinj_qIylop0eFsSKhZZgKWIjn3M/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
 </p>
 
 </div> <!-- .col -->
