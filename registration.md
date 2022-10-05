@@ -7,7 +7,7 @@ permalink: /registration/
 # Registration
 <hr>
 
-Registration opens on 10/05 at 3 pm EST and close on 12/19 at 9pm.
+Registration is now OPEN and close on 12/19 at 9pm.
 
 <div>
   <a class="btn btn-primary btn-lg btn-block" role="button"
