@@ -12,7 +12,7 @@ Registration is now OPEN and close on 12/19 at 9pm.
 <div>
   <a class="btn btn-primary btn-lg btn-block" role="button"
   href="https://forms.gle/FfpH5KorMods6Qdm7"
-  target="_blank">Register Here</a>
+  target="_blank" style="background-color : #C40405;">Register Here</a>
 </div>
 <hr>
 
