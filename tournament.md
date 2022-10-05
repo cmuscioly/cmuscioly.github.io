@@ -6,7 +6,7 @@ permalink: /tournament/
 
 # 2023 Tournament
 <hr>
-Last updated: 10-04-2022
+*Last updated: 10-04-2022*
 
 
 
@@ -28,23 +28,23 @@ We will host our second invitational tournament on actual <b>January 21st, 2023<
   platform</a>
 </div> -->
 
-### Schedule of Events
+## Schedule of Events
 
 We plan to run all 23 of the official 2023 Division C events. We will not be running any trial events. Wherever it makes a difference, we will be following regional rules.
 
 
-### Directions 
+## Directions 
 
 Carnegie Mellon University is located at 5000 Forbes Ave, Pittsburgh, PA 15213. Click [here](https://www.google.com/maps?saddr=My+Location&daddr=Carnegie+Mellon+University) for directions.
 You can find several versions of the campus map on [CMU's website](https://www.cmu.edu/visit/maps-parking-transportation.html) to help you get around campus.
 
 
-### Parking
+## Parking
 
 Buses can unload students on Tech Street near Posner Hall for a short amount of time, then park in the Morewood Gardens parking lot near the Tepper building. For smaller vehicles, free parking is available on weekends and after 5pm on weekdays in the East Campus garage, located next to the Cohon University Center. Visit [Parking Services](https://www.cmu.edu/parking/about/) for more information.
 
 
-### Hotels
+## Hotels
 
 Carnegie Mellon is located in the middle of a few different neighborhoods with hotels at a convenient distance from the university. Visit [this link](https://admission.enrollment.cmu.edu/pages/accommodations) for comprehensive information on options for your stay.
 We believe the following hotels may have bus parking available or nearby, though make sure to confirm before booking:
@@ -54,7 +54,7 @@ We believe the following hotels may have bus parking available or nearby, though
 * [Hyatt House Pittsburgh / Bloomfield / Shadyside](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp)
 
 
-### Food
+## Food
 
 Since the tournament takes place on-campus, several of Carnegie Mellon University’s on-campus dining facilities will be open and available for all students to eat at. You can see what (and where) is open at the [the CMU Dining site](https://apps.studentaffairs.cmu.edu/dining/conceptinfo/?page=listConcepts).
 
