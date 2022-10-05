@@ -14,6 +14,7 @@ Registration is now OPEN and close on 12/19 at 9pm.
   href="https://forms.gle/FfpH5KorMods6Qdm7"
   target="_blank">Register Here</a>
 </div>
+<hr>
 
 - Registration will be first-come, first-served.
 - This year’s competition is strictly in-person; we are unfortunately not accommodating any virtual teams.
