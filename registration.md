@@ -9,10 +9,17 @@ permalink: /registration/
 
 Registration is now OPEN and close on 12/19 at 9pm.
 
+
 <div>
+<<<<<<< HEAD
+  <a class="btn btn-primary btn-lg btn-block" role="button" 
+  href="https://forms.gle/FfpH5KorMods6Qdm7" style="background-color : #C40405;"
+  target="_blank">Register Here!</a>
+=======
   <a class="btn btn-primary btn-lg btn-block" role="button"
   href="https://forms.gle/FfpH5KorMods6Qdm7"
   target="_blank" style="background-color : #C40405;">Register Here</a>
+>>>>>>> 2ccda509c5a0b8de3eedd2992fbb8e6cf6e0e4c9
 </div>
 <hr>
 
