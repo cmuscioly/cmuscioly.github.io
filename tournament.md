@@ -32,6 +32,9 @@ We will host our second invitational tournament on actual <b>January 21st, 2023<
 
 We plan to run all 23 of the official 2023 Division C events. We will not be running any trial events. Wherever it makes a difference, we will be following regional rules.
 
+<p>
+The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1BzOXsfQAb9bZjG1Yinj_qIylop0eFsSKhZZgKWIjn3M/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
+</p>
 
 ## Directions 
 
@@ -67,6 +70,3 @@ Note that on-campus food is historically pricier than off-campus restaurants. So
 
 
 
-<p>
-The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1BzOXsfQAb9bZjG1Yinj_qIylop0eFsSKhZZgKWIjn3M/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
-</p>
