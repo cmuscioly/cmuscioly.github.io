@@ -22,7 +22,6 @@ Registration is now OPEN and close on 12/19 at 9pm.
 - Our capacity is 35 teams, with up to 3 teams per school.
 - Any teams registering after the first 35 teams will be placed on a waitlist.
 - Registration fees will be $50 per TEAM (not school).
-- We ask that teams who have already registered please fill out the form again as well so we have a complete record. You will be given priority in registration so you will be guaranteed a spot.
 - In order to allow more teams to be able to participate, we will be releasing a financial need based scholarship form to waive the registration fees for schools who qualify.
 As always, please feel free to reach out with questions or concerns at cmuscioly@gmail.com.
 
