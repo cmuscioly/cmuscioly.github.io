@@ -4,13 +4,13 @@ title: Tournament Information
 permalink: /tournament/
 ---
 
-# 2023 Tournament
+# 2024 Tournament
 <hr>
-*Last updated: 10-05-2022*
+*Last updated: 10-24-2023*
 
 
 
-We will host our second invitational tournament on actual <b>January 21st, 2023</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration](/registration/) page for more information.
+We will host our fifth invitational tournament on <b>January 20th, 2024</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration](/registration/) page for more information.
 
 
 <!-- RESULTS BUTTON <div>
@@ -30,7 +30,7 @@ We will host our second invitational tournament on actual <b>January 21st, 2023<
 
 ## Schedule of Events
 
-We plan to run all 23 of the official 2023 Division C events. We will not be running any trial events. Wherever it makes a difference, we will be following regional rules.
+We plan to run all 23 of the official 2024 Division C events. We will not be running any trial events. Wherever it makes a difference, we will be following regional rules.
 
 <!-- <p>
 The schedule can be found <a href="https://docs.google.com/spreadsheets/d/1BzOXsfQAb9bZjG1Yinj_qIylop0eFsSKhZZgKWIjn3M/edit?usp=sharing" target="_blank">here</a>. Event times may be subject to change.
@@ -64,7 +64,7 @@ Since the tournament takes place on-campus, several of Carnegie Mellon Universit
 
 Note that on-campus food is historically pricier than off-campus restaurants. Some nearby off-campus food options include:
 
-* Craig Street (5 minute walk along Forbes Ave): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Quiznos, Lulu’s Noodles, Crèpes Parisiennes, Ali Baba Restaurant, Yuva Indian Kitchen, Rose Tea Cafe Express...
+* Craig Street (5 minute walk along Forbes Ave): Chipotle, Eat Unique, Union Grill, Sushi Fuku, Subway, Lulu’s Noodles, Crèpes Parisiennes, Ali Baba Restaurant, Yuva Indian Kitchen, Rose Tea Cafe Express...
 * Oakland (15 minute walk along Forbes Ave): Noodles & Company, Panera hread, Fuku Tea, McDonald’s, Starbucks, Dunkin’ Donuts, Primanti hrothers, Piada Italian Street Food, LOTSA Pizza, Five Guys, Mt. Everest Sushi, Hello Bistro, Hunan Bar...
 * Squirrel Hill (5 minute drive along Forbes Ave): Bangkok Balcony, Murray Avenue Grill, Everyday Noodles, Eat’n Park, Sichuan Gourmet, Aiello’s Pizza...
 

@@ -12,7 +12,7 @@ Registration is now OPEN and close on 12/19 at 9pm.
 
 <div>
   <a class="btn btn-primary btn-lg btn-block" role="button"
-  href="https://forms.gle/FfpH5KorMods6Qdm7"
+  href="https://scilympiad.com/pa-cmuso"
   target="_blank" style="background-color : #C40405;">Register Here!</a>
 </div>
 <hr>
@@ -21,18 +21,18 @@ Registration is now OPEN and close on 12/19 at 9pm.
 - This year’s competition is strictly in-person; we are unfortunately not accommodating any virtual teams.
 - Our capacity is 35 teams, with up to 3 teams per school.
 - Any teams registering after the first 35 teams will be placed on a waitlist.
-- Registration fees will be $50 per TEAM (not school).
+- Registration fees will be $100 for the first team, and $80 for subsequent teams.
 - In order to allow more teams to be able to participate, we will be releasing a financial need based scholarship form to waive the registration fees for schools who qualify.
 As always, please feel free to reach out with questions or concerns at cmuscioly@gmail.com.
 
 # Cancellation
 <hr>
-If your team has registered to attend the 2023 CMU Science Olympiad Invitational, but is no longer able to do so, please communicate your cancellation in writing via email to cmuscioly@gmail.com as soon as possible.
+If your team has registered to attend the 2024 CMU Science Olympiad Invitational, but is no longer able to do so, please communicate your cancellation in writing via email to cmuscioly@gmail.com as soon as possible.
 
-- Cancellations communicated via email on or before December 1, 2022 will be eligible for a full $50 refund.
-- Cancellations communicated via email after December 1, 2022 will be eligible for a $25 refund if all registered teams can be fully replaced by teams on our waiting list (2 teams from waiting list replace 2 teams canceling)
+- Cancellations communicated via email on or before December 1, 2023 will be eligible for a full refund.
+- Cancellations communicated via email after December 1, 2023 will be eligible for a half refund if all registered teams can be fully replaced by teams on our waiting list (2 teams from waiting list replace 2 teams cancelling)
 - Cancellations improperly communicated (any means other than emailing cmuscioly@gmail.com) will not be eligible for any refund.
-- If you request cancellation and are seeking a refund, please be advised that  payments may take up to 60 days to process from the time we receive your cancellation.
+- If you request cancellation and are seeking a refund, please be advised that payments may take up to 60 days to process from the time we receive your cancellation.
 
 
 
