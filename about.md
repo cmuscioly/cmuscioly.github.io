@@ -41,6 +41,7 @@ day will be streamlined.
           <span class="text-muted"> Civil Engineering 2024</span>
         </div>
         <span> President </span>
+        <span> Event Chair: Robot Tour </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
@@ -49,6 +50,7 @@ day will be streamlined.
           <span class="text-muted"> Chemical & Biomedical Engineering 2024 </span>
         </div>
         <span> President </span>
+        <span> Event Chair: Robot Tour </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
@@ -57,14 +59,16 @@ day will be streamlined.
           <span class="text-muted"> Chemistry 2025 </span>
         </div>
         <span> Vice President </span>
+        <span> Event Chair: Chem Lab, Fermi Questions </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Jim Hwang </strong></h4>
-          <span class="text-muted"> Chemistry 2024 </span>
+          <h4><strong> Dhriti Posa </strong></h4>
+          <span class="text-muted"> Chemical & Biomedical Engineering 2025 </span>
         </div>
         <span> Vice President </span>
+        <span> Event Chair: Fossils </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
@@ -73,12 +77,13 @@ day will be streamlined.
           <span class="text-muted"> Chemical Engineering 2025 </span>
         </div>
         <span> Treasurer </span>
+        <span> Event Chair: Experimental Design, Write It Do It </span>
       </div>
 
       <div class="list-group-item flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-          <h4><strong> Clarise Liu </strong></h4>
-          <span class="text-muted"> Computer Science 2025 </span>
+          <h4><strong> Anthony Bustamante </strong></h4>
+          <span class="text-muted"> Computer Science 2026 </span>
         </div>
         <span> Webmaster </span>
       </div>
@@ -89,42 +94,10 @@ day will be streamlined.
   <div class="col-md-6">
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> John Quinlan </strong></h4>
-        <span class="text-muted"> Science and Arts 2023 </span>
-      </div>
-      <span> Event Chair: Rocks and Minerals, Chem Lab, Experimental Design, WIDI </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Jacob Weiner </strong></h4>
-        <span class="text-muted"> Computer Science & Math 2025 </span>
-      </div>
-      <span> Event Chair: Cell Biology, Forestry, Remote Sensing </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
         <h4><strong> Harry Ren </strong></h4>
-        <span class="text-muted"> Statistics and Data Science 2024</span>
+        <span class="text-muted"> Statistics and Data Science 2024 </span>
       </div>
-      <span> Event Chair: Anatomy, Environmental Chem, Green Gen </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Justin Croyle </strong></h4>
-        <span class="text-muted"> Chemical Engineering 2024 </span>
-      </div>
-      <span> Event Chair: FLight, Bridges, Scrambler, Trajectory </span>
-    </div>
-
-    <div class="list-group-item flex-column align-items-start">
-      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Marian Qian </strong></h4>
-        <span class="text-muted"> Artificial Intelligence 2025 </span>
-      </div>
-      <span> Event Chair: Astronomy, It's About Time, Fermi Questions </span>
+      <span> Event Chair: Anatomy & Physiology, Ecology, Dynamic Planet </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
@@ -132,15 +105,31 @@ day will be streamlined.
         <h4><strong> Emily Guo </strong></h4>
         <span class="text-muted"> Computer Science 2025 </span>
       </div>
-      <span> Event Chair: Forensics, Codebusters, Detector Building </span>
+      <span> Event Chair: Forensics, Codebusters, Astronomy </span>
     </div>
 
     <div class="list-group-item flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
-        <h4><strong> Dhiriti Posa </strong></h4>
-        <span class="text-muted"> Chemical and Biomedical Engineering 2025 </span>
+        <h4><strong> Phylicia Ma </strong></h4>
+        <span class="text-muted"> Material Science Engineering 2025 </span>
       </div>
-      <span> Event Chair: Disease Detectives, Dynamic Planet, Wifi Lab </span>
+      <span> Event Chair: Geologic Mapping, Forestry, Optics </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Jim Hwang </strong></h4>
+        <span class="text-muted"> Chemistry 2024 </span>
+      </div>
+      <span> Event Chair: Detector Building, Wind Power, Disease Detectives </span>
+    </div>
+
+    <div class="list-group-item flex-column align-items-start">
+      <div class="d-flex w-100 justify-content-between" style="margin-bottom: 0; padding-bottom: 0;">
+        <h4><strong> Justin Croyle </strong></h4>
+        <span class="text-muted"> Chemical Engineering 2024 </span>
+      </div>
+      <span> Event Chair: Scrambler, Air Trajectory, Flight, Towers </span>
     </div>
 
   </div>

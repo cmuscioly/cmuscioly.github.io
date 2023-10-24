@@ -10,7 +10,7 @@ permalink: /tournament/
 
 
 
-We will host our fifth invitational tournament on <b>January 20th, 2024</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration](/registration/) page for more information.
+We will host our sixth invitational tournament on <b>January 20th, 2024</b>, on Carnegie Mellon's Pittsburgh campus. If you're interested in attending, please see the [registration](/registration/) page for more information.
 
 
 <!-- RESULTS BUTTON <div>
