@@ -40,7 +40,7 @@ day will be streamlined.
           <h4><strong> Justin Peng </strong></h4>
           <span class="text-muted"> Civil Engineering 2024</span>
         </div>
-        <span> President </span>
+        <span> President </span> <br>
         <span> Event Chair: Robot Tour </span>
       </div>
 
@@ -49,7 +49,7 @@ day will be streamlined.
           <h4><strong> Avi Gupta </strong></h4>
           <span class="text-muted"> Chemical & Biomedical Engineering 2024 </span>
         </div>
-        <span> President </span>
+        <span> President </span> <br>
         <span> Event Chair: Robot Tour </span>
       </div>
 
@@ -58,7 +58,7 @@ day will be streamlined.
           <h4><strong> Daniel Ye </strong></h4>
           <span class="text-muted"> Chemistry 2025 </span>
         </div>
-        <span> Vice President </span>
+        <span> Vice President </span> <br>
         <span> Event Chair: Chem Lab, Fermi Questions </span>
       </div>
 
@@ -67,7 +67,7 @@ day will be streamlined.
           <h4><strong> Dhriti Posa </strong></h4>
           <span class="text-muted"> Chemical & Biomedical Engineering 2025 </span>
         </div>
-        <span> Vice President </span>
+        <span> Vice President </span> <br>
         <span> Event Chair: Fossils </span>
       </div>
 
@@ -76,7 +76,7 @@ day will be streamlined.
           <h4><strong> Udithi Kothapalli </strong></h4>
           <span class="text-muted"> Chemical Engineering 2025 </span>
         </div>
-        <span> Treasurer </span>
+        <span> Treasurer </span> <br>
         <span> Event Chair: Experimental Design, Write It Do It </span>
       </div>
 
